@@ -1,50 +1,18 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 
-import Bio from "../components/bio"
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
-
-const BlogIndex = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata.title
-  const posts = data.allMarkdownRemark.edges
-
+const Home = (props) => {
+  const data = props.data.allFile.edges[0].node.childMarkdownRemark.frontmatter
+  console.log(data)
   return (
-    <Layout location={location} title={siteTitle}>
-      <SEO title="All posts" />
-      <Bio />
-      {posts.map(({ node }) => {
-        const title = node.frontmatter.title || node.fields.slug
-        return (
-          <article key={node.fields.slug}>
-            <header>
-              <h3
-                style={{
-                  marginBottom: rhythm(1 / 4),
-                }}
-              >
-                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
-                  {title}
-                </Link>
-              </h3>
-              <small>{node.frontmatter.date}</small>
-            </header>
-            <section>
-              <p
-                dangerouslySetInnerHTML={{
-                  __html: node.frontmatter.description || node.excerpt,
-                }}
-              />
-            </section>
-          </article>
-        )
-      })}
-    </Layout>
+    <div>
+      <p>{ data.title }</p>
+      <p>{ data.heading_left.title }</p>
+    </div>
   )
 }
 
-export default BlogIndex
+export default Home
 
 export const pageQuery = graphql`
   query {
@@ -53,17 +21,49 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allFile(filter: {name: {eq: "home"}}) {
       edges {
         node {
-          excerpt
-          fields {
-            slug
-          }
-          frontmatter {
-            date(formatString: "MMMM DD, YYYY")
-            title
-            description
+          id
+          relativePath
+          childMarkdownRemark {
+            html
+            frontmatter {
+              title
+              date
+              description
+              heading_left {
+                title
+                background_photo
+              }
+              section_1 {
+                title
+                text
+              }
+              who_we_are {
+                title
+                text
+                image
+              }
+              section_3 {
+                title
+                text
+              }
+              section_4 {
+                text
+                title
+              }
+              life_groups {
+                men {
+                  text
+                  background_photo
+                }
+                women {
+                  text
+                  background_photo
+                }
+              }
+            }
           }
         }
       }
