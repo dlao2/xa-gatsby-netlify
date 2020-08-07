@@ -1,5 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+import BaseBanner from "../components/BaseBanner"
 
 const Home = (props) => {
   const data = props.data.allFile.edges[0].node.childMarkdownRemark.frontmatter
@@ -8,13 +9,11 @@ const Home = (props) => {
     <div>
       <div className="flex lg:h-128 flex-col lg:flex-row">
         <div className="flex-1">
-          {
-            // <base-banner
-            //   className="h-64 lg:h-full"
-            //   text="Welcome to Family"
-            //   img="/img/welcome-to-family.jpg"
-            // ></base-banner>
-          }
+          <BaseBanner
+            className="h-64 lg:h-full"
+            text="Welcome to Family"
+            img={data.heading_left.background_photo}
+          />
         </div>
         <div className="flex-1 bg-gray-900 h-full">
           {
@@ -34,8 +33,7 @@ const Home = (props) => {
         <div className="container mx-auto">
           <h2 className="text-center py-20 text-6xl">{ data.who_we_are.title }</h2>
           <div className="flex flex-col lg:flex-row px-4 lg:px-0">
-            <div className="flex-1 lg:px-32 text-gray-900">
-              <p>{ data.who_we_are.text }</p>
+            <div className="flex-1 lg:px-32 text-gray-900" dangerouslySetInnerHTML={{__html: data.who_we_are.text}}>
             </div>
             <div className="flex-1">
               <img src={ data.who_we_are.image } className="rounded mt-6 lg:-mt-4" />
@@ -44,26 +42,24 @@ const Home = (props) => {
         </div>
       </section>
 
-      <section className="py-20 bg-gray-200 flex flex-row justify-center text-blue-600 text-2xl leading-loose">
-        { data.section_3.text }
+      <section className="py-20 bg-gray-200 flex flex-row justify-center text-blue-600 text-2xl leading-loose" dangerouslySetInnerHTML={{__html: data.section_3.text}}>
       </section>
 
-      <section className="py-20 flex flex-col items-center text-gray-900 text-lg leading-loose">
-        { data.section_4.text }
+      <section className="py-20 flex flex-col items-center text-gray-900 text-lg leading-loose" dangerouslySetInnerHTML={{__html: data.section_4.text }}>
       </section>
 
       <section className="flex flex-col lg:flex-row lg:h-128">
         <div className="flex-1 h-64 lg:h-full bg-center bg-cover" style={ { backgroundImage: 'url(' + data.life_groups.men.background_photo + ')' } }>
           <div className="flex w-full h-full items-center justify-center">
             <Link to="/men">
-              <button className="bg-blue-500 p-4 rounded text-white hover:bg-blue-400">Men's Lifegroup</button>
+              <button className="bg-blue-500 p-4 rounded text-white hover:bg-blue-400">{ data.life_groups.men.text }</button>
             </Link>
           </div>
         </div>
         <div className="flex-1 h-64 lg:h-full bg-center bg-cover" style={ { backgroundImage: 'url(' + data.life_groups.women.background_photo + ')' } }>
           <div className="flex w-full h-full items-center justify-center">
             <Link to="/women">
-              <button className="bg-blue-500 p-4 rounded text-white hover:bg-blue-400">Women's Lifegroup</button>
+              <button className="bg-blue-500 p-4 rounded text-white hover:bg-blue-400">{ data.life_groups.women.text }</button>
             </Link>
           </div>
         </div>
