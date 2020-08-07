@@ -13,6 +13,8 @@ staff:
       children — Josiah(16) and Elijah(11). Joe loves sports — especially the
       Cubs — history and art.
     other-photo: assets/JoeNewell.jpg
+    headshot: assets/JoeNewell-Headshot.jpg
+    bio-photo: assets/JoeNewell.jpg
   - name: Mishael Newell
     biography: "Mishael is an ordained minister with the Assemblies of God. She and
       her husband Joe direct Chi Alpha at UNC. They met as single missionaries
@@ -23,6 +25,8 @@ staff:
       Joe have two sons: Josiah (16) and Elijah (11)."
     photo: assets/MishaelNewell-Headshot.jpg
     other-photo: assets/JoeNewell.jpg
+    headshot: assets/MishaelNewell-Headshot.jpg
+    bio-photo: assets/JoeNewell.jpg
   - biography: David Lao has been involved with Chi Alpha as a staff since Fall 2014
       and has recently completed Chi Alpha’s Campus Missionary In-Training
       (CMIT) internship at NC State for the 2017-2018 school year. David is
@@ -39,6 +43,8 @@ staff:
     name: David Lao
     photo: assets/DavidLao-Headshot.jpg
     other-photo: assets/DavidLao.jpg
+    headshot: assets/DavidLao-Headshot.jpg
+    bio-photo: assets/DavidLao.jpg
   - name: Seth Collins
     photo: assets/SethCollins-Headshot.jpg
     other-photo: assets/SethandBrooke.jpg
@@ -56,6 +62,8 @@ staff:
       \
 
       In 2014, Seth and Brooke got married and both continued serving simultaneously at UVA and VCU. In 2015, both Seth and Brooke moved to New Haven to help pioneer Chi Alpha at Yale University. In June 2018, Seth and Brooke moved to Chapel Hill to work with Chi Alpha at UNC.
+    headshot: assets/SethCollins-Headshot.jpg
+    bio-photo: assets/SethandBrooke.jpg
   - name: Brooke Collins
     biography: >-
       Brooke was born and raised in the plains of Kansas and will always have a
@@ -71,6 +79,8 @@ staff:
       Somewhere along the way she met Seth and they got married in 2014. Most of their major relationship milestones have occurred at Chi Alpha events. You should ask her about how they met. Brooke loves watching movies and reading Wonder Woman comic books. She’s also a big baseball fan. One of her life goals is to see a game at every MLB ballpark.
     photo: assets/BrookeCollins-Headshot.jpg
     other-photo: assets/SethandBrooke.jpg
+    headshot: assets/BrookeCollins-Headshot.jpg
+    bio-photo: assets/SethandBrooke.jpg
   - name: Emily Shuman
     photo: assets/EmilyShuman-Headshot.jpg
     other-photo: assets/EmilyShuman.jpg
@@ -84,6 +94,8 @@ staff:
       When she's not on campus, Emily is probably in a coffee shop somewhere. In
       fact, you may never see Emily without coffee. She also loves all things
       music, hanging out in nature, cooking, and Carolina basketball!
+    headshot: assets/EmilyShuman-Headshot.jpg
+    bio-photo: assets/EmilyShuman.jpg
   - name: Tyler Brotton
     photo: assets/TylerBrotton-Headshot.jpg
     other-photo: assets/TylerBrotton.jpg
@@ -104,4 +116,6 @@ staff:
       \
 
       I'm really excited to become a Tar Heel fan and cheering them on! Besides that I am passionate about the Kansas City Chiefs and the Kansas City Royals! I also love being out in nature and experiencing God's creation. I look forward to getting to know you. I would love to talk about anything really. I would love to get to know you more!
+    headshot: assets/TylerBrotton-Headshot.jpg
+    bio-photo: assets/TylerBrotton.jpg
 ---
