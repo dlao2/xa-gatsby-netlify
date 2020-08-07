@@ -42,8 +42,8 @@ section-4:
 life-groups:
   men:
     text: Men's Lifegroup
-    background-photo: assets/welcome-to-family.jpg
+    background-photo: assets/mens_hurricane.jpg
   women:
     text: Women's Lifegroup
-    background-photo: assets/welcome-to-family.jpg
+    background-photo: assets/womens_escape_banner.jpg
 ---
