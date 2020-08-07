@@ -5,7 +5,6 @@ import GetConnectedForm from "../components/GetConnectedForm"
 
 const Home = (props) => {
   const data = props.data.allFile.edges[0].node.childMarkdownRemark.frontmatter
-  console.log(data)
   return (
     <div>
       <div className="flex lg:h-128 flex-col lg:flex-row">
