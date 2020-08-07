@@ -7,6 +7,10 @@ import BaseMember from "../components/BaseMember"
 const Resources = (props) => {
   const data = props.data.allFile.edges[0].node.childMarkdownRemark.frontmatter
 
+  data.testimonials.forEach(testimonial => {
+    testimonial.member = { headshot: testimonial.headshot }
+  });
+
   const classObject = (school) => {
     var color;
     switch (school) {
@@ -24,7 +28,7 @@ const Resources = (props) => {
         break;
     }
 
-    return `w-12 h-1 border-${ color }-500`;
+    return `w-12 h-1 border-${ color }-500 border bg-${ color }-500`;
   };
 
   return (
@@ -38,23 +42,21 @@ const Resources = (props) => {
           />
         </div>
 
-        <div class="container mx-auto mt-20 px-20" ref="testimonials">
+        <div className="container mx-auto mt-20 px-20">
           {
-            data.testimonial.map((testimonial, index) =>
+            data.testimonials.map((testimonial, index) =>
               <section key={index} class="mb-20">
                 {
-                  testimonial.member = { headshot: testimonial.headshot} &&
                   testimonial.headshot &&
                   <BaseMember
-                    v-if="testimonial.headshot"
-                    member="testimonial.member"
-                    class="float-right"
+                    member={testimonial.member}
+                    className="float-right"
                   />
                 }
-                <div class="mb-5">
-                  <h1 class="uppercase font-bold my-3 text-base font-sans">{ testimonial.name }</h1>
-                  { testimonial.school && <h2 class="text-gray-800 my-1 text-base font-sans font-normal">{ testimonial.school}</h2> }
-                  <div style={ classObject(testimonial.school) }></div>
+                <div className="mb-5">
+                  <h1 className="uppercase font-bold my-3 text-base font-sans">{ testimonial.name }</h1>
+                  { testimonial.school && <h2 className="text-gray-800 my-1 text-base font-sans font-normal">{ testimonial.school}</h2> }
+                  <div className={ classObject(testimonial.school) }></div>
                 </div>
                 <p dangerouslySetInnerHTML={{__html: testimonial.testimonial}}></p>
               </section>
@@ -85,7 +87,12 @@ export const pageQuery = graphql`
             frontmatter {
               title
               background_photo
-              content
+              testimonials {
+                name
+                headshot
+                school
+                testimonial
+              }
             }
           }
         }

@@ -7,11 +7,11 @@ const BaseMember = (props) => {
       color = borderColor;
     }
 
-    return `p-1 rounded-full border-4 border-${ color }-400`;
+    return `p-1 rounded-full border-4 border-${ color }-400 `;
   };
 
   return (
-    <div className={classObject(props.member.borderColor)} style={{width:'200px', height:'200px'}} onClick={props.onClick}>
+    <div className={classObject(props.member.borderColor) + props.className } style={{width:'200px', height:'200px'}} onClick={props.onClick}>
       <div
         className="rounded-full staff-member bg-center"
         style={{
