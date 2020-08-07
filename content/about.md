@@ -14,7 +14,7 @@ our-vision:
   background-photo: assets/Pit-Table.jpg
 part-2:
   text: >-
-    <p class="rounded p-8 mt-24 lg:mt-0 lg:ml-6 leading-normal bg-blue-lighter">
+    <p class="rounded p-8 mt-24 lg:mt-0 lg:ml-6 leading-normal bg-blue-200">
 
 
     In Chi Alpha, we believe that no one was meant to live this life alone. We have lots of opportunities to hang out together, learn together, and play together. Check out the Home page for more info about our events and follow us on <a href="https://www.facebook.com/XAatUNC/" target="_blank" class="text-blue hover:underline">Facebook</a> and <a href="https://www.instagram.com/uncchialpha/" target="_blank" class="text-blue hover:underline">Instagram</a> to see what’s up.
