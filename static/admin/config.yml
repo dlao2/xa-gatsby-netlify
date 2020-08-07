@@ -11,7 +11,7 @@ collections:
     files:
       - label: "Home Page"
         name: "home"
-        file: "site/content/home.yml"
+        file: "site/content/home.md"
         fields:
           - {label: Title, name: title, widget: string}
           - label: Heading Left
@@ -64,7 +64,7 @@ collections:
 
       - label: "About Page"
         name: "about"
-        file: "site/content/about.yml"
+        file: "site/content/about.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Background Photo, name: background-photo, widget: image}
@@ -95,7 +95,7 @@ collections:
 
       - label: "Staff Page"
         name: "staff"
-        file: "site/content/staff.yml"
+        file: "site/content/staff.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Background Photo, name: background-photo, widget: image}
@@ -110,7 +110,7 @@ collections:
 
       - label: "Mens Page"
         name: "mens"
-        file: "site/content/mens.yml"
+        file: "site/content/mens.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Background Photo, name: background-photo, widget: image}
@@ -125,7 +125,7 @@ collections:
 
       - label: "Womens Page"
         name: "womens"
-        file: "site/content/womens.yml"
+        file: "site/content/womens.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Background Photo, name: background-photo, widget: image}
@@ -140,7 +140,7 @@ collections:
 
       - label: "Testimonials"
         name: "testimonials"
-        file: "site/content/testimonials.yml"
+        file: "site/content/testimonials.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Background Photo, name: background-photo, widget: image}
@@ -160,7 +160,7 @@ collections:
 
       - label: "Give Page"
         name: "give"
-        file: "site/content/give.yml"
+        file: "site/content/give.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Background Photo, name: background-photo, widget: image}
@@ -168,7 +168,7 @@ collections:
 
       - label: "Resources Page"
         name: "resources"
-        file: "site/content/resources.yml"
+        file: "site/content/resources.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Background Photo, name: background-photo, widget: image}
@@ -176,6 +176,6 @@ collections:
 
       - label: "Podcast Link"
         name: "podcast"
-        file: "site/content/podcast.yml"
+        file: "site/content/podcast.md"
         fields:
           - {label: Link, name: link, widget: string}
