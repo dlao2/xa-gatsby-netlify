@@ -1,6 +1,7 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 import BaseBanner from "../components/BaseBanner"
+import GetConnectedForm from "../components/GetConnectedForm"
 
 const Home = (props) => {
   const data = props.data.allFile.edges[0].node.childMarkdownRemark.frontmatter
@@ -16,10 +17,7 @@ const Home = (props) => {
           />
         </div>
         <div className="flex-1 bg-gray-900 h-full">
-          {
-            // <get-connected-form>
-            // </get-connected-form> 
-          }
+          <GetConnectedForm />
         </div>
       </div>
 
