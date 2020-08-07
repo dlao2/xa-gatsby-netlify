@@ -74,7 +74,7 @@ export const pageQuery = graphql`
         title
       }
     }
-    allFile(filter: {name: {eq: "home"}}) {
+    allFile(filter: {name: {eq: "home"}, sourceInstanceName: {eq: "content"}}) {
       edges {
         node {
           id
