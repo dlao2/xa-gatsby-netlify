@@ -3,7 +3,7 @@ title: About
 background-photo: assets/about.jpg
 our-vision:
   text: >-
-    <p class="rounded p-8 leading-normal devoted-disciples">
+    <p class="rounded p-8 leading-normal bg-gray-200">
 
 
     Our vision for Chi Alpha is to learn together to be Devoted Disciples of Jesus who build Deep Friendships with those around us and act as Deliberate Servants of our campus, community, and world.
