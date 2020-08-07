@@ -3,7 +3,7 @@ import { graphql } from "gatsby"
 
 import BaseBanner from "../components/BaseBanner"
 
-const Give = (props) => {
+const Resources = (props) => {
   const data = props.data.allFile.edges[0].node.childMarkdownRemark.frontmatter
 
   return (
@@ -16,8 +16,8 @@ const Give = (props) => {
             img={data.background_photo}
           />
         </div>
-        <div className="flex-1 py-24">
-          <div className="container mx-auto leading-normal" dangerouslySetInnerHTML={{__html: data.content}}>
+        <div className="flex-1 py-24 font-sans">
+          <div className="container mx-auto leading-normal font-sans" dangerouslySetInnerHTML={{__html: data.content}}>
           </div>
         </div>
       </div>
@@ -25,7 +25,7 @@ const Give = (props) => {
   )
 }
 
-export default Give
+export default Resources
 
 export const pageQuery = graphql`
   query {
@@ -34,7 +34,7 @@ export const pageQuery = graphql`
         title
       }
     }
-    allFile(filter: {name: {eq: "give"}, sourceInstanceName: {eq: "content"}}) {
+    allFile(filter: {name: {eq: "resources"}, sourceInstanceName: {eq: "content"}}) {
       edges {
         node {
           id
