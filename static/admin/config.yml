@@ -72,13 +72,13 @@ collections:
             name: our-vision
             widget: object
             fields:
-              - {label: Text, name: text, widget: string}
+              - {label: Text, name: text, widget: markdown}
               - {label: Background Photo, name: background-photo, widget: image}
           - label: Part 2
             name: part-2
             widget: object
             fields:
-              - {label: Text, name: text, widget: string}
+              - {label: Text, name: text, widget: markdown}
               - {label: Background Photo, name: background-photo, widget: image}
           - label: What We Believe
             name: what-we-believe
