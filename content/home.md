@@ -5,24 +5,39 @@ heading-left:
   background-photo: assets/welcome-to-family.jpg
 section-1:
   title: ""
-  text: ""
+  text: >-
+    <div class="container mx-auto flex items-center justify-center">
+
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/zi81EggAN1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+    </div>
 who-we-are:
   title: Who We Are
-  text: ""
-  image: ""
+  text: >-
+    <p class="mb-10">Chi Alpha is a ministry that exists to reach college
+    students, build them up in their faith and send them out to serve and make a
+    difference in a world in great need.</p>
+
+
+    <p>Chi Alpha has groups on more than 300 campuses in the United States and around the world.</p>
+  image: assets/pit.jpg
 section-3:
-  text: We use the Greek name to reflect the Apostle Paul's words in 2 Corinthians
-    5:20. The X (Chi) and A (Alpha) are abbreviations for "Christ's
-    ambassadors".
+  text: <span class="block w-1/2 text-center">We use the Greek name to reflect the
+    Apostle Paul's words in 2 Corinthians 5:20. The X (Chi) and A (Alpha) are
+    abbreviations for "Christ's ambassadors".</span>
   title: ""
 section-4:
   text: >-
-    Life Groups are where we get together in small groups in dorms around campus
-    every week to talk about anything and everything as we try to figure out how
-    to do life together.
+    <p class="block w-1/2 text-center mb-8">Life Groups are where we get
+    together in small groups in dorms around campus every week to talk about
+    anything and everything as we try to figure out how to do life together.</p>
 
 
-    We believe that the Bible is the word of God and we are going to look at it to see how it applies to our lives. We encourage and invite questions as we figure it out together.
+
+
+    <p class="block w-1/2 text-center">We believe that the Bible is the word of God and we are going to look at it to see how it applies to our lives. We encourage and invite questions as we figure it out together.</p>
   title: ""
 life-groups:
   men:
