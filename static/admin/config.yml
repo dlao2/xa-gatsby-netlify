@@ -104,8 +104,9 @@ collections:
             widget: list
             fields:
               - {label: Name, name: name, widget: string}
-              - {label: Position, name: position, widget: string}
-              - {label: Photo, name: photo, widget: image}
+              - {label: Position, name: position, widget: string, required: false}
+              - {label: Headshot, name: headshot, widget: image}
+              - {label: Biography Photo, name: bio-photo, widget: image}
               - {label: Biography, name: biography, widget: markdown}
 
       - label: "Men Page"
