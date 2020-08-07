@@ -234,7 +234,7 @@ testimonials:
 
 
       I support Chi Alpha today because I know the unmistakable effect it had on my life and on my relationship with Christ. If Chi Alpha had not found me, I honestly don't know where I'd be today in my faith. I'd like to think I'd still be following Jesus, but who knows? I know there are so many others like me who are looking for Christian community as they head to college but need to be pursued. And there are countless others who do not know Jesus but who are also seeking community of some kind. They need to be pursued too. My wife Kate and I are thankful for the opportunity to support Chi Alpha missionaries on multiple college campuses because we know and believe that God is using this ministry to raise up disciples of Christ who will live out the Great Commission for the rest of their lives.
-    school: University of North Carolina at Chapel Hill
+    school: null
     headshot: assets/Andy-Headshot.jpg
   - name: Emily Shuman
     testimonial: I’m Emily. I came to UNC as a fearful perfectionist who only showed
@@ -253,7 +253,7 @@ testimonials:
     headshot: assets/EmilyShuman-Headshot.jpg
   - name: Richard & Sherry
     headshot: assets/RichardSherry-Headshot.jpg
-    school: University of North Carolina at Chapel Hill
+    school: null
     testimonial: >-
       Sherry and I have served with Assemblies of God World Missions for the
       past 45 years. And one of the joys of our ministry has been to work
@@ -273,4 +273,34 @@ testimonials:
 
 
       We personally support several Chi Alpha Missionaries because we see how this ministry is reaching young people that represent the best and the brightest. The Chi Alpha Worker having had his/her personal faith tested in the fire of atheism and agnosticism, understand what the students are facing and they lead by example, understanding the language of academia and loving the students into the Kingdom. Chi Alpha is one of the best investments we have ever made in ministry and missions and we will continue to support this vital ministry of reaching the youth of our generation.
+  - name: Annie Lin
+    school: University of North Carolina at Chapel Hill
+    testimonial: When I was 17-year-old, I came to the US by myself for
+      undergraduate study. As formidable the experience might sound, I got to
+      know these amazing people across the globe, I got to have another 'family'
+      in this unfamiliar country. I attended Chi Alpha services during my
+      freshman year and kept this routine till I graduated. Through Chi Alpha, I
+      got to know the Bible and Christianity for the first time. My time spent
+      with this big family changed my view about the world, not in a way like a
+      sudden moment, but gradually like the way God is slowly guiding our life.
+      Then I began to see these slow change in my life as well. Along the way, I
+      gained amazing fellowship experience and more importantly I feel God
+      worked his way through my heart and taught me so many things that cannot
+      be gained otherwise.
+  - name: Michael
+    testimonial: >-
+      Growing up, my parents, my older brother, and I would go to church
+      together, however, I still remember the feelings of relief every now and
+      again when I would awake only to realize that we weren’t going to church
+      that morning. It’s not that I didn’t care about God or that my church was
+      “boring”. I believed in Jesus, and my church had an awesome band and great
+      preacher. Nonetheless, when I went to college, I was on the fence of
+      whether or not I would continue going to church.
+
+
+      That question was soon answered, not because of a change of heart, but because on move-in day I met a Chi Alpha student who invited me to come with him. I joined him for church and soon met many other guys. I began to attend Chi Alpha’s worship night and even joined a small group. It would take some time before my heart would really change, but I went because of the guys I was with.
+
+
+      I was caught by an older Chi Alpha student on move-in day. I was kept by the guys in my small group. Because of that, I met Jesus “face-to-face” for the first time. If I want to see how God used Chi Alpha to change my life, it’s easy. I just have to look at my older brother. Spiritually we were the same leaving high school, but sadly today, he is far from God. The difference...Chi Alpha
+    headshot: assets/Michael-Headshot.jpg
 ---
