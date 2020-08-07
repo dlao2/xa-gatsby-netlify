@@ -7,7 +7,7 @@ const Home = (props) => {
   return (
     <div>
       <p>{ data.title }</p>
-      <p>{ data.heading_left.title }</p>
+      <p className="text-3xl bg-red-400">{ data.heading_left.title }</p>
     </div>
   )
 }
