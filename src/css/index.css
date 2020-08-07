@@ -1,5 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600&display=swap');
+@font-face {
+    font-family: Underland;
+    font-display: auto;
+    src: url("./fonts/Underland-Script/Underland.otf") format("opentype");
+}
+
 @tailwind base;
 
 @tailwind components;
 
 @tailwind utilities;
+
+body {
+  font-family: 'Montserrat', 'sans-serif';
+}
+
+a {
+  text-decoration: none;
+}
+
+.router-view {
+  z-index: -999;
+}
+
+h2 {
+  font-family: 'Underland', 'sans-serif';
+  color: #4B9CD3;
+  font-size: 3.5rem;
+}
+
+p.year {
+  visibility: hidden;
+}
+
+h3.month-item {
+  visibility: hidden;
+}
+
+.mens {
+  background-image: url('/assets/mens_hurricane.jpg');
+}
+
+.womens {
+  background-image: url('/assets/girls_getaway.jpg');
+}
