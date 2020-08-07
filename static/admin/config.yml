@@ -11,7 +11,7 @@ collections:
     files:
       - label: "Home Page"
         name: "home"
-        file: "site/content/home.md"
+        file: "content/home.md"
         fields:
           - {label: Title, name: title, widget: string}
           - label: Heading Left
@@ -64,7 +64,7 @@ collections:
 
       - label: "About Page"
         name: "about"
-        file: "site/content/about.md"
+        file: "content/about.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Background Photo, name: background-photo, widget: image}
@@ -95,7 +95,7 @@ collections:
 
       - label: "Staff Page"
         name: "staff"
-        file: "site/content/staff.md"
+        file: "content/staff.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Background Photo, name: background-photo, widget: image}
@@ -108,9 +108,9 @@ collections:
               - {label: Photo, name: photo, widget: image}
               - {label: Biography, name: biography, widget: markdown}
 
-      - label: "Mens Page"
-        name: "mens"
-        file: "site/content/mens.md"
+      - label: "Men Page"
+        name: "men"
+        file: "content/men.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Background Photo, name: background-photo, widget: image}
@@ -123,9 +123,9 @@ collections:
               - {label: Photo, name: photo, widget: image}
               - {label: Biography, name: biography, widget: markdown}
 
-      - label: "Womens Page"
-        name: "womens"
-        file: "site/content/womens.md"
+      - label: "Women Page"
+        name: "women"
+        file: "content/women.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Background Photo, name: background-photo, widget: image}
@@ -140,7 +140,7 @@ collections:
 
       - label: "Testimonials"
         name: "testimonials"
-        file: "site/content/testimonials.md"
+        file: "content/testimonials.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Background Photo, name: background-photo, widget: image}
@@ -160,7 +160,7 @@ collections:
 
       - label: "Give Page"
         name: "give"
-        file: "site/content/give.md"
+        file: "content/give.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Background Photo, name: background-photo, widget: image}
@@ -168,7 +168,7 @@ collections:
 
       - label: "Resources Page"
         name: "resources"
-        file: "site/content/resources.md"
+        file: "content/resources.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Background Photo, name: background-photo, widget: image}
@@ -176,6 +176,6 @@ collections:
 
       - label: "Podcast Link"
         name: "podcast"
-        file: "site/content/podcast.md"
+        file: "content/podcast.md"
         fields:
           - {label: Link, name: link, widget: string}
