@@ -4,17 +4,17 @@ heading-left:
   title: Welcome to Family
   background-photo: assets/welcome-to-family.jpg
 section-1:
-  title: A
-  text: A
+  title: ""
+  text: ""
 who-we-are:
   title: Who We Are
-  text: A
-  image: assets/welcome-to-family.jpg
+  text: ""
+  image: ""
 section-3:
   text: We use the Greek name to reflect the Apostle Paul's words in 2 Corinthians
     5:20. The X (Chi) and A (Alpha) are abbreviations for "Christ's
     ambassadors".
-  title: A
+  title: ""
 section-4:
   text: >-
     Life Groups are where we get together in small groups in dorms around campus
@@ -23,7 +23,7 @@ section-4:
 
 
     We believe that the Bible is the word of God and we are going to look at it to see how it applies to our lives. We encourage and invite questions as we figure it out together.
-  title: A
+  title: ""
 life-groups:
   men:
     text: Men's Lifegroup
