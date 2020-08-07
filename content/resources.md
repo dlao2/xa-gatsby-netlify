@@ -5,7 +5,7 @@ content: >-
   <h3 class="text-2xl">Topical</h3>
 
 
-  <p><strong>Campus Gods:</strong>&nbsp;
+  <p class="my-4"><strong>Campus Gods:</strong>&nbsp;
 
 
   <a href="http://campusministry.org/docs/tools/Campus-gods.pdf" target="_blank" class="text-blue">(Link)</a>
@@ -16,7 +16,7 @@ content: >-
 
 
 
-  <p><strong>Foundations in Christ:</strong>&nbsp;
+  <p class="my-4"><strong>Foundations in Christ:</strong>&nbsp;
 
 
   <a href="https://docs.google.com/document/d/1gYNNi9W4U6FGCevGwOK8P9nqu_yzhAfnPeuctASjrbQ/edit#" target="_blank" class="text-blue">(Link)</a>
@@ -27,10 +27,10 @@ content: >-
 
 
 
-  <h3 class="text-2xl">Intro</h3>
+  <h3 class="text-2xl mt-10 mb-4">Intro</h3>
 
 
-  <p><strong>Alpha:</strong>&nbsp;
+  <p class="my-4"><strong>Alpha:</strong>&nbsp;
 
 
   <a href="http://www.alpha.org/" target="_blank" class="text-blue">(Link)</a>
@@ -46,7 +46,7 @@ content: >-
 
 
 
-  <p><strong>Redemptive Story in 10 images:</strong>&nbsp;
+  <p class="my-4"><strong>Redemptive Story in 10 images:</strong>&nbsp;
 
 
   <a href="https://irp-cdn.multiscreensite.com/2988a589/files/uploaded/images.pdf" target="_blank" class="text-blue">(Link)</a>
@@ -57,10 +57,10 @@ content: >-
 
 
 
-  <h3 class="text-2xl">Books of the Bible</h3>
+  <h3 class="text-2xl mt-10 mb-4">Books of the Bible</h3>
 
 
-  <p><strong>Daniel:</strong>&nbsp;
+  <p class="my-4"><strong>Daniel:</strong>&nbsp;
 
 
   <a href="https://irp-cdn.multiscreensite.com/2988a589/files/uploaded/Daniel%20Study.pdf" target="_blank" class="text-blue">(Link)</a>
@@ -71,7 +71,7 @@ content: >-
 
 
 
-  <p><strong>Exodus:</strong>&nbsp;
+  <p class="my-4"><strong>Exodus:</strong>&nbsp;
 
 
   <a href="https://irp-cdn.multiscreensite.com/2988a589/files/uploaded/Exodus.pdf" target="_blank" class="text-blue">(Link)</a>
@@ -82,7 +82,7 @@ content: >-
 
 
 
-  <p><strong>James:</strong>&nbsp;
+  <p class="my-4"><strong>James:</strong>&nbsp;
 
 
   <a href="https://www.bible.com/reading-plans/14480-book-of-james-francis-chan-12-day-video-study" target="_blank" class="text-blue">(Link)</a>
@@ -93,7 +93,7 @@ content: >-
 
 
 
-  <p><strong>Galatians:</strong>&nbsp;
+  <p class="my-4"><strong>Galatians:</strong>&nbsp;
 
 
   <a href="http://www.grace-bible.org/uploads/publications/galatians_final_8-22-15.pdf" target="_blank" class="text-blue">(Link)</a>
