@@ -24,27 +24,27 @@ collections:
             name: section-1
             widget: object
             fields:
-              - {label: Title, name: title, widget: string}
-              - {label: Text, name: text, widget: markdown}
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Text, name: text, widget: markdown, required: false}
           - label: Who We Are
             name: who-we-are
             widget: object
             fields:
-              - {label: Title, name: title, widget: string}
-              - {label: Text, name: text, widget: markdown}
-              - {label: Image, name: image, widget: image}
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Text, name: text, widget: markdown, required: false}
+              - {label: Image, name: image, widget: image, required: false}
           - label: Section 3
             name: section-3
             widget: object
             fields:
-              - {label: Title, name: title, widget: string}
-              - {label: Text, name: text, widget: markdown}
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Text, name: text, widget: markdown, required: false}
           - label: Section 4
             name: section-4
             widget: object
             fields:
-              - {label: Title, name: title, widget: string}
-              - {label: Text, name: text, widget: markdown}
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Text, name: text, widget: markdown, required: false}
           - label: Life Groups
             name: life-groups
             widget: object
