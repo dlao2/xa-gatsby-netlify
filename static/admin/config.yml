@@ -9,28 +9,173 @@ collections:
   - label: "Pages"
     name: "pages"
     files:
+      - label: "Home Page"
+        name: "home"
+        file: "site/content/home.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - label: Heading Left
+            name: heading-left
+            widget: object
+            fields:
+              - {label: Text, name: title, widget: string}
+              - {label: Background Photo, name: background-photo, widget: image}
+          - label: Section 1
+            name: section-1
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Text, name: text, widget: markdown}
+          - label: Who We Are
+            name: who-we-are
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: image, widget: image}
+          - label: Section 3
+            name: section-3
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Text, name: text, widget: markdown}
+          - label: Section 4
+            name: section-4
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Text, name: text, widget: markdown}
+          - label: Life Groups
+            name: life-groups
+            widget: object
+            fields:
+              - label: Men
+                name: men
+                widget: object
+                fields:
+                  - {label: Text, name: text, widget: string}
+                  - {label: Background Photo, name: background-photo, widget: image}
+              - label: Women
+                name: women
+                widget: object
+                fields:
+                  - {label: Text, name: text, widget: string}
+                  - {label: Background Photo, name: background-photo, widget: image}
+
       - label: "About Page"
         name: "about"
         file: "site/content/about.yml"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Intro, name: intro, widget: markdown}
-          - label: Team
-            name: team
+          - {label: Background Photo, name: background-photo, widget: image}
+          - label: Our Vision
+            name: our-vision
+            widget: object
+            fields:
+              - {label: Text, name: text, widget: string}
+              - {label: Background Photo, name: background-photo, widget: image}
+          - label: Part 2
+            name: part-2
+            widget: object
+            fields:
+              - {label: Text, name: text, widget: string}
+              - {label: Background Photo, name: background-photo, widget: image}
+          - label: What We Believe
+            name: what-we-believe
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Text, name: text, widget: markdown}
+          - label: The Long Version
+            name: the-long-version
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Text, name: text, widget: markdown}
+
+      - label: "Staff Page"
+        name: "staff"
+        file: "site/content/staff.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Background Photo, name: background-photo, widget: image}
+          - label: Staff
+            name: staff
             widget: list
             fields:
               - {label: Name, name: name, widget: string}
               - {label: Position, name: position, widget: string}
               - {label: Photo, name: photo, widget: image}
-      - label: "Locations Page"
-        name: "locations"
-        file: "site/content/locations.yml"
+              - {label: Biography, name: biography, widget: markdown}
+
+      - label: "Mens Page"
+        name: "mens"
+        file: "site/content/mens.yml"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Intro, name: intro, widget: markdown}
-          - label: Locations
-            name: locations
+          - {label: Background Photo, name: background-photo, widget: image}
+          - {label: Life Group, name: life-group, widget: markdown}
+          - label: Student Leaders
+            name: student-leaders
             widget: list
             fields:
               - {label: Name, name: name, widget: string}
-              - {label: Address, name: address, widget: string}
+              - {label: Photo, name: photo, widget: image}
+              - {label: Biography, name: biography, widget: markdown}
+
+      - label: "Womens Page"
+        name: "womens"
+        file: "site/content/womens.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Background Photo, name: background-photo, widget: image}
+          - {label: Life Group, name: life-group, widget: markdown}
+          - label: Student Leaders
+            name: student-leaders
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Photo, name: photo, widget: image}
+              - {label: Biography, name: biography, widget: markdown}
+
+      - label: "Testimonials"
+        name: "testimonials"
+        file: "site/content/testimonials.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Background Photo, name: background-photo, widget: image}
+          - label: Testimonials
+            name: testimonials
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Headshot, name: headshot, widget: image}
+              - {
+                label: School,
+                name: school,
+                widget: select,
+                options: ["University of North Carolina at Chapel Hill", "North Carolina State University", "Virginia Commonwealth University", "Reinhardt University"]
+              }
+              - {label: Testimonial, name: testimonial, widget: markdown}
+
+      - label: "Give Page"
+        name: "give"
+        file: "site/content/give.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Background Photo, name: background-photo, widget: image}
+          - {label: Content, name: content, widget: markdown}
+
+      - label: "Resources Page"
+        name: "resources"
+        file: "site/content/resources.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Background Photo, name: background-photo, widget: image}
+          - {label: Content, name: content, widget: markdown}
+
+      - label: "Podcast Link"
+        name: "podcast"
+        file: "site/content/podcast.yml"
+        fields:
+          - {label: Link, name: link, widget: string}
