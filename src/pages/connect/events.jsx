@@ -12,9 +12,9 @@ const Events = (props) => {
       </div>
       <div className="flex flex-col">
         <div className="flex-1">
-          <div class="w-full flex bg-center bg-cover h-128 bg-blue-500 flex-col justify-around px-10" style={{ backgroundImage: 'url(' + data.background_photo + ')' } }>
+          <div className="w-full flex bg-center bg-cover h-128 bg-blue-500 flex-col justify-around px-10" style={{ backgroundImage: 'url(/' + data.background_photo + ')' } }>
             <h1
-              class="text-white text-center"
+            className="text-white text-center"
               style={{
                 fontFamily: ['Underland', 'sans-serif'],
                 fontSize: '4rem',
@@ -23,7 +23,7 @@ const Events = (props) => {
             >
               {data.title}
             </h1>
-            <h2 class="text-white text-left text-4xl font-sans">
+            <h2 className="text-white text-left text-4xl font-sans">
               <a href="/connect/events">Events</a>
             </h2>
           </div>
