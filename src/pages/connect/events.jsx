@@ -3,11 +3,13 @@ import { graphql } from "gatsby"
 
 import TheNav from "../../components/TheNav"
 import TheFooter from "../../components/TheFooter"
+import SEO from "../../components/SEO"
 
 const Events = (props) => {
   const data = props.data.allFile.edges[0].node.childMarkdownRemark.frontmatter
   return (
     <div>
+      <SEO title={ data.title } />
       <header className="lg:pin-t lg:absolute w-full hidden lg:flex">
         <TheNav />
       </header> 

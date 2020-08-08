@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import BaseBanner from "../components/BaseBanner"
 import BaseMember from "../components/BaseMember"
 import Layout from "../components/layout"
+import SEO from "../components/SEO"
 
 const Staff = (props) => {
   const data = props.data.allFile.edges[0].node.childMarkdownRemark.frontmatter
@@ -10,6 +11,7 @@ const Staff = (props) => {
   const [ selectedMember, setSelectedMember ] = useState(data.staff[0]);
   return (
     <Layout>
+      <SEO title={ data.title } />
       <div className="flex">
         <div className="flex-1">
           <BaseBanner

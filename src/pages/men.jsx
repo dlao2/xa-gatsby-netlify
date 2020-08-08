@@ -3,12 +3,14 @@ import { graphql } from "gatsby"
 import BaseBanner from "../components/BaseBanner"
 import BaseMember from "../components/BaseMember"
 import Layout from "../components/layout"
+import SEO from "../components/SEO"
 
 const Men = (props) => {
   const data = props.data.allFile.edges[0].node.childMarkdownRemark.frontmatter
 
   return (
     <Layout>
+      <SEO title={ data.title } />
       <div className="flex">
         <div className="flex-1">
           <BaseBanner
