@@ -2,11 +2,12 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import BaseBanner from "../components/BaseBanner"
 import GetConnectedForm from "../components/GetConnectedForm"
+import Layout from "../components/layout"
 
 const Home = (props) => {
   const data = props.data.allFile.edges[0].node.childMarkdownRemark.frontmatter
   return (
-    <div>
+    <Layout>
       <div className="flex lg:h-128 flex-col lg:flex-row">
         <div className="flex-1">
           <BaseBanner
@@ -61,7 +62,7 @@ const Home = (props) => {
           </div>
         </div>
       </section>
-    </div>
+    </Layout>
   )
 }
 
