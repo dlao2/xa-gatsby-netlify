@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 const TheNav = () => {
   return (
-    <div className="flex flex-col lg:flex-row bg-blue-500 lg:bg-transparent pt-5 align-top lg:pin-t lg:absolute w-full text-white">
+    <div className="flex flex-col lg:flex-row bg-blue-500 lg:bg-transparent pt-5 align-top w-full text-white">
       <div className="flex-1 pl-5">
         <Link to="/"><span className="text-xl text-white">Chi Alpha at UNC</span></Link>
       </div>

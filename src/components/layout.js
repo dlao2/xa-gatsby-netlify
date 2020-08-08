@@ -5,7 +5,7 @@ import TheFooter from "./TheFooter"
 const Layout = ({ children }) => {
   return (
     <div>
-      <header>
+      <header className="lg:pin-t lg:absolute w-full">
         <TheNav />
       </header>
       <main>{children}</main>

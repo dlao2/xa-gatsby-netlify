@@ -2,14 +2,15 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import TheNav from "../../components/TheNav"
+import TheFooter from "../../components/TheFooter"
 
 const Connect = (props) => {
   const data = props.data.allFile.edges[0].node.childMarkdownRemark.frontmatter
   return (
     <div>
-      <div>
+      <header className="lg:pin-t lg:absolute w-full hidden lg:flex">
         <TheNav />
-      </div>
+      </header> 
       <div className="flex flex-col">
         <div className="flex-1">
           <div class="w-full flex bg-center bg-cover h-128 bg-blue-500 flex-col justify-around px-10" style={{ backgroundImage: 'url(' + data.background_photo + ')' } }>
@@ -33,6 +34,12 @@ const Connect = (props) => {
           </div>
         </div>
       </div>
+      <div className="flex lg:hidden">
+        <TheNav />
+      </div>
+      <footer>
+        <TheFooter />
+      </footer>
     </div>
   )
 }
