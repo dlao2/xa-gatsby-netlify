@@ -3,7 +3,7 @@ import { graphql } from "gatsby"
 
 import TheNav from "../../components/TheNav"
 import TheFooter from "../../components/TheFooter"
-import SEO from "../../components/SEO"
+import SEO from "../../components/seo"
 
 const Connect = (props) => {
   const data = props.data.allFile.edges[0].node.childMarkdownRemark.frontmatter

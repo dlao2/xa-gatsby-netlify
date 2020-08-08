@@ -3,7 +3,7 @@ import { graphql } from "gatsby"
 
 import BaseBanner from "../components/BaseBanner"
 import Layout from "../components/layout"
-import SEO from "../components/SEO"
+import SEO from "../components/seo"
 
 const Resources = (props) => {
   const data = props.data.allFile.edges[0].node.childMarkdownRemark.frontmatter
