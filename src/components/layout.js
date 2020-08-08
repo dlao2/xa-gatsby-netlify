@@ -9,7 +9,7 @@ const Layout = ({ children }) => {
       <header>
         <div className="flex flex-col lg:flex-row bg-blue-500 lg:bg-transparent pt-5 align-top lg:pin-t lg:absolute w-full text-white">
           <div className="flex-1 pl-5">
-            <a href="/"><span className="text-xl text-white">Chi Alpha at UNC</span></a>
+            <Link to="/"><span className="text-xl text-white">Chi Alpha at UNC</span></Link>
           </div>
           <div className="flex-grow pl-10 pr-6">
             <ul className="list-reset text-right flex flex-col lg:flex-row items-center justify-between">
