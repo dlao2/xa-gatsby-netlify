@@ -5,7 +5,7 @@ const BaseBanner = (props) => {
     <div
       className={ `w-full flex text-center items-center bg-center bg-cover ${ props.className }` }
       style={{
-        backgroundImage: 'url(' + props.img + ')'
+        backgroundImage: 'url(/' + props.img + ')'
       }}>
       <h1
         className="flex-1 text-white"
