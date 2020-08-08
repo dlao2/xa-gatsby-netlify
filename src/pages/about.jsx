@@ -1,11 +1,12 @@
 import React from "react"
 import { graphql } from "gatsby"
 import BaseBanner from "../components/BaseBanner"
+import Layout from "../components/layout"
 
 const About = (props) => {
   const data = props.data.allFile.edges[0].node.childMarkdownRemark.frontmatter
   return (
-    <div>
+    <Layout>
       <div className="flex">
         <div className="flex-1">
           <BaseBanner
@@ -53,7 +54,7 @@ const About = (props) => {
           </div>
         </div>
       </section>
-    </div>
+    </Layout>
   )
 }
 

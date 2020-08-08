@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 
 import BaseBanner from "../components/BaseBanner"
 import BaseMember from "../components/BaseMember"
+import Layout from "../components/layout"
 
 const Resources = (props) => {
   const data = props.data.allFile.edges[0].node.childMarkdownRemark.frontmatter
@@ -32,7 +33,7 @@ const Resources = (props) => {
   };
 
   return (
-    <div>
+    <Layout>
       <div className="flex flex-col">
         <div className="flex-1">
           <BaseBanner
@@ -64,7 +65,7 @@ const Resources = (props) => {
           }
         </div>
       </div>
-    </div>
+    </Layout>
   )
 }
 

@@ -2,13 +2,14 @@ import React, { useState } from "react"
 import { graphql } from "gatsby"
 import BaseBanner from "../components/BaseBanner"
 import BaseMember from "../components/BaseMember"
+import Layout from "../components/layout"
 
 const Staff = (props) => {
   const data = props.data.allFile.edges[0].node.childMarkdownRemark.frontmatter
 
   const [ selectedMember, setSelectedMember ] = useState(data.staff[0]);
   return (
-    <div>
+    <Layout>
       <div className="flex">
         <div className="flex-1">
           <BaseBanner
@@ -64,7 +65,7 @@ const Staff = (props) => {
           </div>
         </div>
       </div>
-    </div>
+    </Layout>
   )
 }
 

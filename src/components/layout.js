@@ -13,14 +13,14 @@ const Layout = ({ children }) => {
           </div>
           <div className="flex-grow pl-10 pr-6">
             <ul className="list-reset text-right flex flex-col lg:flex-row items-center justify-between">
-              <li className="py-3 lg:py-0"><Link to="/">Home</Link></li>
-              <li className="py-3 lg:py-0"><Link to="/about">About</Link></li>
-              <li className="py-3 lg:py-0"><Link to="/staff">Staff</Link></li>
-              <li className="py-3 lg:py-0"><Link to="/men">Men</Link></li>
-              <li className="py-3 lg:py-0"><Link to="/women">Women</Link></li>
-              <li className="py-3 lg:py-0"><Link to="/testimonials">Testimonials</Link></li>
-              <li className="py-3 lg:py-0"><Link to="/give">Give</Link></li>
-              <li className="py-3 lg:py-0"><Link to="/resources">Resources</Link></li>
+              <li className="py-3 lg:py-0"><Link activeClassName="font-bold" to="/">Home</Link></li>
+              <li className="py-3 lg:py-0"><Link activeClassName="font-bold" to="/about">About</Link></li>
+              <li className="py-3 lg:py-0"><Link activeClassName="font-bold" to="/staff">Staff</Link></li>
+              <li className="py-3 lg:py-0"><Link activeClassName="font-bold" to="/men">Men</Link></li>
+              <li className="py-3 lg:py-0"><Link activeClassName="font-bold" to="/women">Women</Link></li>
+              <li className="py-3 lg:py-0"><Link activeClassName="font-bold" to="/testimonials">Testimonials</Link></li>
+              <li className="py-3 lg:py-0"><Link activeClassName="font-bold" to="/give">Give</Link></li>
+              <li className="py-3 lg:py-0"><Link activeClassName="font-bold" to="/resources">Resources</Link></li>
               <li className="py-3 lg:py-0"><a href="https://uncchialpha.podbean.com">Podcast</a></li>
             </ul>
           </div>
