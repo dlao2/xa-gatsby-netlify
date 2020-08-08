@@ -175,9 +175,3 @@ collections:
           - {label: Title, name: title, widget: string}
           - {label: Background Photo, name: background-photo, widget: image}
           - {label: Content, name: content, widget: markdown}
-
-      - label: "Podcast Link"
-        name: "podcast"
-        file: "content/podcast.md"
-        fields:
-          - {label: Link, name: link, widget: string}
