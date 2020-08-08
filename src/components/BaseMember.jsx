@@ -1,17 +1,17 @@
 import React from "react"
 
 const BaseMember = (props) => {
-  const classObject = (borderColor) => {
-    var color = 'blue';
-    if (borderColor) {
-      color = borderColor;
-    }
+  // const classObject = (borderColor) => {
+  //   var color = 'blue';
+  //   if (borderColor) {
+  //     color = borderColor;
+  //   }
 
-    return `p-1 rounded-full border-4 border-${ color }-400 `;
-  };
+  //   return `p-1 rounded-full border-4 border-${ color }-400 `;
+  // };
 
   return (
-    <div className={classObject(props.member.borderColor) + props.className } style={{width:'200px', height:'200px'}} onClick={props.onClick}>
+    <div className={`p-1 rounded-full border-4 border-blue-400 ` + props.className } style={{width:'200px', height:'200px'}} onClick={props.onClick}>
       <div
         className="rounded-full staff-member bg-center"
         style={{
