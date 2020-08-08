@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Chi Alpha at UNC`,
+    description: `Our vision for Chi Alpha is to learn together to be Devoted Disciples of Jesus who build Deep Friendships with those around us and act as Deliberate Servants of our campus, community, and world. Chi Alpha is a ministry that exists to reach college students, build them up in their faith and send them out to serve and make a difference in a world in great need.`,
   },
   plugins: [
     `gatsby-plugin-postcss`,
