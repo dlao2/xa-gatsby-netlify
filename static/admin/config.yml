@@ -175,3 +175,17 @@ collections:
           - {label: Title, name: title, widget: string}
           - {label: Background Photo, name: background-photo, widget: image}
           - {label: Content, name: content, widget: markdown}
+      - label: "Connect Page"
+        name: "connect"
+        file: "content/connect.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Background Photo, name: background-photo, widget: image}
+          - {label: Content, name: content, widget: markdown}
+      - label: "Events Page"
+        name: "events"
+        file: "content/events.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Background Photo, name: background-photo, widget: image}
+          - {label: Content, name: content, widget: markdown}

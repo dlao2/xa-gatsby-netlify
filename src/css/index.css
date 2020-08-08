@@ -19,6 +19,11 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 .router-view {
   z-index: -999;
 }
