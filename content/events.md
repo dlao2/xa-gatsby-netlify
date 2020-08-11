@@ -11,18 +11,6 @@ content: >-
   <h2>Links</h2>
 
 
-  <div class="text-xl">
-
-
-  <div class="py-3">
-
-
-  <a class="text-blue-800" href="/connect/events">
-
-
-  Events
-
-
   </a>
 
 
