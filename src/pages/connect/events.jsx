@@ -26,9 +26,6 @@ const Events = (props) => {
             >
               {data.title}
             </h1>
-            <h2 className="text-white text-left text-4xl font-sans">
-              <a href="/connect/events">Events</a>
-            </h2>
           </div>
         </div>
         <div className="flex-1 font-sans">
