@@ -1,9 +1,9 @@
 import React from "react"
 
-const GetConnectedForm = () => {
+const GetConnectedForm = (props) => {
   return (
-    <div className="flex flex-col items-center h-full justify-center my-6">
-      <h1 className="text-white lg:mt-6 mb-8 text-2xl">Get Connected</h1>
+    <div className="flex flex-col items-center h-full justify-center my-6 w-full">
+      <h1 className="lg:mt-6 mb-8 text-2xl">{ props.title || 'Get Connected' }</h1>
       <form className="w-1/2" method="POST" name="get-connected" netlify data-netlify="true">
         <div className="flex mb-6">
           <div className="w-full">

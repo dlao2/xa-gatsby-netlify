@@ -18,7 +18,7 @@ const Home = (props) => {
             img={data.heading_left.background_photo}
           />
         </div>
-        <div className="flex-1 bg-gray-900 h-full">
+        <div className="flex-1 bg-gray-900 h-full text-white">
           <GetConnectedForm />
         </div>
       </div>
