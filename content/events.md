@@ -2,6 +2,15 @@
 title: Events
 background-photo: assets/welcome-to-family.jpg
 content: >-
+  <li>XAlive Virtual Gathering every Wednesdays through Nov. 11 @ 7:30 PM EST
+
+
+  <li/>
+
+
+  <li/>
+
+
   <div class="py-20">
 
 
