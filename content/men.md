@@ -5,13 +5,7 @@ life-group: >-
   <ul class="flex-1">
 
 
-  <li class="py-3 text-xl">Monday 7 PM @ Location TBD with Seth Collins and Tyler Brotton</li>
-
-
-  <li class="py-3 text-xl">Tuesday 8 PM @ Virtual ZOOM with Parker Benfield and Stephen Kenney</li>
-
-
-  <li class="py-3 text-xl">Thursday 7 PM @ Bell Tower with David Lao and Tom Dix</li>
+  <li class="py-3 text-xl">Monday 7 PM via Zoom w/ Parker Benfield, Stephen Kenney, and Tom Dix</li>
 
 
   </ul>
