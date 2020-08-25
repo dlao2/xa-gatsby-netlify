@@ -2,13 +2,15 @@
 title: Events
 background-photo: assets/welcome-to-family.jpg
 content: >-
-  <ul class="flex-1">
+  > <ul class="flex-1">
 
+  >
 
-  <li class="py-3 text-xl">XAlive via ZOOM <br>Wednesdays @ 7:30 PM</li>
+  > <li class="py-3 text-xl">XAlive via ZOOM <br>Wednesdays @ 7:30 PM</li>
 
+  >
 
-  </ul>
+  > </ul>
 
 
 
