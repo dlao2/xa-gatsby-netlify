@@ -5,7 +5,7 @@ content: >-
   <ul class="flex-1">
 
 
-  <li class="py-3 text-xl"><center>XAlive Virtual Gathering via ZOOM <br>Wednesdays @ 7:30 PM </li>
+  <li class="py-3 text-xl"><center>XAlive Virtual Gathering via ZOOM (click HERE for link) <br>Wednesdays @ 7:30 PM (click [HERE](https://unc.zoom.us/j/93041439932?pwd=UmFMMWZjSTZ2OC9yWXo5Z0xKRXVEUT09) for the Zoom link)<br>Send us a message for the password! </li>
 
 
   </ul>
