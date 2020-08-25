@@ -5,13 +5,10 @@ life-group: >-
   <ul class="flex-1">
 
 
-  <li class="py-3 text-xl">Monday 7 PM @ Virtual ZOOM with Indira Lujano and Mackenzie Harris</li>
+  <li class="py-3 text-xl">Monday 7:30 PM via ZOOM w/ Indira Lujano and Mackenzie Harris</li>
 
 
-  <li class="py-3 text-xl">Tuesday 7 PM @ Virtual ZOOM with Emily Shuman and Megan Wood</li>
-
-
-  <li class="py-3 text-xl">Thursday 6:30 PM @ Virtual ZOOM with Adriana Jimenez-Guzman and Madelyn Smith</li>
+  <li class="py-3 text-xl">Thursday 6:30 PM via ZOOM w/ Adriana Jimenez-Guzman and Madelyn Smith</li>
 
 
   </ul>
