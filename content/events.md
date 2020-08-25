@@ -5,7 +5,7 @@ content: >-
   <ul class="flex-1">
 
 
-  <li class="py-3 text-xl">XAlive Virtual Gathering (click <a href="https://unc.zoom.us/j/93041439932?pwd=UmFMMWZjSTZ2OC9yWXo5Z0xKRXVEUT09">HERE</a> for ZOOM link) <br>Wednesdays @ 7:30 PM <br> <br>If it asks for a password, send us a message via our <a href="/">CONNECTION FORM</a>! </li>
+  <li class="py-3 text-xl">XAlive Virtual Gathering (click <a href="https://unc.zoom.us/j/93041439932?pwd=UmFMMWZjSTZ2OC9yWXo5Z0xKRXVEUT09">HERE</a> for ZOOM link) <br>Wednesdays @ 7:30 PM <br> <br>If it asks for a password, send us a message via our <a href="/">GET CONNECTED</a> form! </li>
 
 
   </ul>
