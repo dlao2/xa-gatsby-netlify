@@ -2,13 +2,20 @@
 title: Events
 background-photo: assets/welcome-to-family.jpg
 content: >-
-  <li>XAlive Virtual Gathering every Wednesday through Nov. 11 @ 7:30 PM EST
+  <ul class="flex-1">
+
+
+  <li class="py-3 text-xl">XAlive via ZOOM <br>Wednesdays @ 7:30 PM</li>
+
+
+  </ul>
+
+
 
 
   <li/>
 
 
-  <li/>
 
 
   <div class="py-20">
