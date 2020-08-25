@@ -5,7 +5,7 @@ content: >-
   <ul class="flex-1">
 
 
-  <li class="py-3 text-xl" {text-align: center;}>XAlive via ZOOM <br>Wednesdays @ 7:30 PM </li>
+  <li class="py-3 text-xl"><center>XAlive via ZOOM <br>Wednesdays @ 7:30 PM </li>
 
 
   </ul>
