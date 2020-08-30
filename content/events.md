@@ -2,9 +2,6 @@
 title: Events
 background-photo: assets/welcome-to-family.jpg
 content: >-
-  * XAlive Virtual Service
-
-
   <ul class="flex-1">
 
 
