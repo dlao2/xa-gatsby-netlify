@@ -2,7 +2,21 @@
 title: Events
 background-photo: assets/welcome-to-family.jpg
 content: >-
-  <div>
+  <ul class="flex-1">
+
+
+  <li class="py-3 text-xl">Monday 7:30 PM via ZOOM <br>Led by Indira Lujano and Mackenzie Harris</li>
+
+
+  <br>
+
+
+  <li class="py-3 text-xl">Thursday 6:30 PM via ZOOM <br>Led by Adriana Jimenez-Guzman and Madelyn Smith</li>
+
+
+  </ul>
+
+
 
 
   <ul class="flex-1">
@@ -15,9 +29,6 @@ content: >-
 
 
   <br>
-
-
-  </div>
 
 
   <div class="py-20">
