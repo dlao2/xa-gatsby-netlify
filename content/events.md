@@ -5,13 +5,16 @@ content: >-
   <ul class="flex-1">
 
 
+  <p>
+
+
   <li class="py-3 text-xl">XAlive Virtual Service (click <a href="https://www.youtube.com/watch?v=waih_sqiKL4">HERE</a> to join!) on Wednesdays @ 7:30 PM <br>Following the message, a Zoom link will be in the chat for the after-service discussion and hang out with other Chi Alphans!<br> <br>If it asks for a password, send us a message via our <a href="/">GET CONNECTED</a> form! </li>
 
 
   </ul>
 
 
-  <br>
+  <br> </p>
 
 
   <div class="py-20">
