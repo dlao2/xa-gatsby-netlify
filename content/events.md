@@ -5,7 +5,13 @@ content: >-
   <ul class="flex-1">
 
 
-  <li class="py-3 text-xl">XAlive Virtual Service (click <a href="https://www.youtube.com/watch?v=waih_sqiKL4">HERE</a> to join!) on Wednesdays @ 7:30 PM <br>Following the message, a Zoom link will be in the chat for the after-service discussion and hang out with other Chi Alphans!<br> <br>If it asks for a password, send us a message via our <a href="/">GET CONNECTED</a> form! </li>
+  <li class="py-3 text-xl",>- <b>XAlive Virtual Service (click <a href="https://www.youtube.com/watch?v=waih_sqiKL4">HERE</a> to join!)</b> - <br> Wednesdays @ 7:45 PM<br>If it asks for a password, send us a message via our <a href="/">GET CONNECTED</a> form! </li>
+
+
+  <br>
+
+
+  \- <b>Chai Alpha International Tea Hour (Click <a href="https://unc.zoom.us/j/93876547588?pwd=S1hFUDZjaExaaFRma3MxVklkTGRaUT09">HERE</a>  for Zoom link)</b><br>Saturday, September 12 @ 11 AM <br>Bring a hot drink and meet a friend!
 
 
   </ul>
