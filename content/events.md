@@ -5,7 +5,7 @@ content: >-
   <ul class="flex-1">
 
 
-  <li class="py-3 text-xl">- <b>XAconnect (click <a href="https://www.youtube.com/watch?v=waih_sqiKL4">HERE</a> for Zoom link!)</b> - <br> Wednesdays @ 7 PM<br>If it asks for a password, send us a message via our <a href="/">GET CONNECTED</a> form! 
+  <li class="py-3 text-xl">- <b>XAconnect</b> -<br> Wednesday, January 27th @ 7 PM<br>Send us a message via our <a href="/">GET CONNECTED</a> form or email us for the Zoom link!
 
 
   <br>
