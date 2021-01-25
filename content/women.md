@@ -5,7 +5,7 @@ life-group: >-
   <ul class="flex-1">
 
 
-  <li class="py-3 text-xl">Monday 7:30 PM via ZOOM <br>Led by Indira Lujano and Mackenzie Harris</li>
+  <li class="py-3 text-xl">Monday 7 PM via ZOOM <br>Led by Indira Lujano and Mackenzie Harris</li>
 
 
   <br>
