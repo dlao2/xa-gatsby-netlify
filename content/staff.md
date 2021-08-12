@@ -35,11 +35,10 @@ staff:
       people still ask him how exams are going. David loves to hear testimonies
       that demonstrates God’s love, faithfulness, and provisions, and looks
       forward to seeing more people experience God’s presence and come to know
-      Christ as Lord and Savior. David values a fit lifestyle and has recently
-      picked up archery on the side. He loves to eat and does not meet many
-      people who can eat more than he can. Perhaps due to his “unique”
-      personality he finds himself the source of everyone’s laughter. He also
-      enjoys playing Nintendo video games and watching anime.
+      Christ as Lord and Savior. He loves to eat and values a fit lifestyle.
+      Perhaps due to his unique personality he finds himself the source of
+      everyone’s laughter. He also enjoys playing Nintendo video games and
+      watching anime.
     name: David Lao
     photo: assets/DavidLao-Headshot.jpg
     other-photo: assets/DavidLao.jpg
