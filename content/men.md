@@ -5,7 +5,7 @@ life-group: >-
   <ul class="flex-1">
 
 
-  <li class="py-3 text-xl">Monday 7 PM via ZOOM <br>Led by Parker Benfield, Stephen Kenney, and Tom Dix</li>
+  <li class="py-3 text-xl">Thursday 7PM <br>Led by Seth Collins and Tyler Brotton<br>Location TBD</li>
 
 
   </ul>
