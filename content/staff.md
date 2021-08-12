@@ -5,13 +5,13 @@ staff:
   - name: Joe Newell
     position: Campus Pastor
     photo: assets/JoeNewell-Headshot.jpg
-    biography: Joe is in his tenth year with Chi Alpha. He currently directs XA
+    biography: Joe is in his eleventh year with Chi Alpha. He currently directs XA
       along with his wife Mishael. He is a graduate of Hampden-Sydney College
       (History), earning his ordination through Global University and the
       Assemblies of God. He and Mishael met as single missionaries in Costa Rica
-      in 1996 and celebrated their 20th anniversary in March. They have two
-      children — Josiah(16) and Elijah(11). Joe loves sports — especially the
-      Cubs — history and art.
+      in 1996 and celebrated their 23rd anniversary in March. They have two
+      children — Josiah (17) and Elijah (12). Joe loves sports — especially the
+      Cubs — as well as history and art.
     other-photo: assets/JoeNewell.jpg
     headshot: assets/JoeNewell-Headshot.jpg
     bio-photo: assets/JoeNewell.jpg
@@ -20,9 +20,9 @@ staff:
       her husband Joe direct Chi Alpha at UNC. They met as single missionaries
       in Costa Rica and were married in 1998. Prior to coming to UNC in 2011
       Mishael served overseas as a missionary for 21 years, ministering in more
-      than 40 countries around the world. Born and raised in Tucson, Arizona she
-      loves hot weather, saving money, and leading students in missions. She and
-      Joe have two sons: Josiah (16) and Elijah (11)."
+      than 40 countries around the world. Born and raised in Tucson, Arizona,
+      she loves hot weather, saving money, and leading students in missions. She
+      and Joe have two sons: Josiah (17) and Elijah (12)."
     photo: assets/MishaelNewell-Headshot.jpg
     other-photo: assets/JoeNewell.jpg
     headshot: assets/MishaelNewell-Headshot.jpg
