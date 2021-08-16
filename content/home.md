@@ -6,8 +6,7 @@ heading-left:
 section-1:
   title: ""
   text: >-
-    <div class="container mx-auto flex items-center justify-center">
-
+  
 
 
     </div>
