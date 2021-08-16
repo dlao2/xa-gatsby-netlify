@@ -5,16 +5,7 @@ heading-left:
   background-photo: assets/welcome-to-family.jpg
 section-1:
   title: ""
-  text: >-
-    <div class="container mx-auto flex items-center justify-center">
-
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/zi81EggAN1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-    </div>
-
-
+  text: ""
 who-we-are:
   title: Who We Are
   text: >-
