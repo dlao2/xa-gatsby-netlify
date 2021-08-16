@@ -9,7 +9,6 @@ section-1:
   
 
 
-    </div>
 who-we-are:
   title: Who We Are
   text: >-
