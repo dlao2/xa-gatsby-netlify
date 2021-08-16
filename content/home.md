@@ -9,8 +9,6 @@ section-1:
     <div class="container mx-auto flex items-center justify-center">
 
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/zi81EggAN1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
     </div>
 who-we-are:
