@@ -3,9 +3,7 @@ title: Home
 heading-left:
   title: Welcome to Family
   background-photo: assets/welcome-to-family.jpg
-section-1:
-  title: ""
-  text: ""
+
 who-we-are:
   title: Who We Are
   text: >-
