@@ -2,8 +2,17 @@
 title: Events
 background-photo: assets/welcome-to-family.jpg
 content: >-
+
+<ul class="flex-1">
 photo: assets/lawn-games.jpg
 
+  <li class="py-3 text-xl">- <b>Lawn Games 7PM @ Olde Campus Lower Quad<br>Send us a message via our <a href="/">GET CONNECTED</a> form or email us!
+
+
+  <br>
+
+
+  </ul>
 
 
 
