@@ -5,7 +5,7 @@ content: >-
   <!--StartFragment-->
 
 
-  <img src="lawn-games.jpg" alt="Lawn Games August 25, 7PM in Olde Campus Lower Quad">
+  <img src="assets/lawn-games.jpg" alt="Lawn Games August 25, 7PM in Olde Campus Lower Quad">
 
 
   <!--EndFragment-->
