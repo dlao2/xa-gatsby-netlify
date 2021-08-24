@@ -92,10 +92,6 @@ export const pageQuery = graphql`
                 title
                 background_photo
               }
-              section_1 {
-                title
-                text
-              }
               who_we_are {
                 title
                 text
