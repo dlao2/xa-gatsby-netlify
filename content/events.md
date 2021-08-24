@@ -2,13 +2,7 @@
 title: Events
 background-photo: assets/welcome-to-family.jpg
 content: >-
-  <!--StartFragment-->
-
-
-  <img src="assets/lawn-games.jpg" alt="Lawn Games August 25, 7PM in Olde Campus Lower Quad">
-
-
-  <!--EndFragment-->
+photo: assets/lawn-games.jpg
 
 
 
