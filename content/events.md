@@ -5,7 +5,7 @@ content: >-
   <ul class="flex-1">
 
 
-  <li class="py-3 text-xl">- <b>XAconnect</b> -<br> Wednesday, September 22, 2021 @ 7 PM in Union <br>Check out our <a href="https://heellife.unc.edu/organization/chi-alpha-christian-fellowship/events">Heel Life</a> page for future meeting dates!<br>Send us a message via our <a href="/">GET CONNECTED</a> form or email us!
+  <li class="py-3 text-xl">- <b>XAconnect</b> -<br> Wednesday, September 22, 2021 @ 7 PM in Dey 305 <br>Check out our <a href="https://heellife.unc.edu/organization/chi-alpha-christian-fellowship/events">Heel Life</a> page for future meeting dates!<br>Send us a message via our <a href="/">GET CONNECTED</a> form or email us!
 
 
   <br>
