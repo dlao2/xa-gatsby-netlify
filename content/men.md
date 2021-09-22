@@ -5,7 +5,7 @@ life-group: >-
   <ul class="flex-1">
 
 
-  <li class="py-3 text-xl">Thursday 7PM <br>Led by Seth Collins and Tyler Brotton<br>Location TBD</li>
+  <li class="py-3 text-xl">Thursday 7PM <br>Led by Seth Collins and Tyler Brotton<br>Location Union 2502 <br><a href="https://docs.google.com/forms/d/e/1FAIpQLSeoGENWS0iuFoufRqvDKs_x1gbbmEnpnpf7wdcarx1njh6oaw/viewform">Click Here</a> to get connected!<br></li>
 
 
   </ul>
