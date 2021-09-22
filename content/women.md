@@ -11,7 +11,7 @@ life-group: >-
   <br>
 
 
-  <li class="py-3 text-xl">Thursday 7 PM <br>Led by Emily Shuman and Lydia Silverstone<br>Meet at Morrison Basketball Court</li>
+  <li class="py-3 text-xl">Thursday 7 PM <br>Led by Emily Shuman and Lydia Silverstone<br>Meet at Morrison Basketball Court<br><br><a href="https://docs.google.com/forms/d/e/1FAIpQLSeoGENWS0iuFoufRqvDKs_x1gbbmEnpnpf7wdcarx1njh6oaw/viewform">Click Here</a> to get connected!</li>
 
 
   </ul>
