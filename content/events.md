@@ -5,7 +5,7 @@ content: >-
   <ul class="flex-1">
 
 
-  <li class="py-3 text-xl">- <b>XAconnect</b> -<br> Wednesday, October 6, 2021 @ 7 PM in Genome Science G010 <br>Check out our <a href="https://heellife.unc.edu/organization/chi-alpha-christian-fellowship/events">Heel Life</a> page for future meeting dates!<br> <a href="/">CLICK HERE</a> for our Get Connected form to contact us!
+  <li class="py-3 text-xl">- <b>XAconnect</b> -<br> Wednesday, November 3, 2021 @ 7 PM in Dey 305 <br>Check out our <a href="https://heellife.unc.edu/organization/chi-alpha-christian-fellowship/events">Heel Life</a> page for future meeting dates!<br> <a href="/">CLICK HERE</a> for our Get Connected form to contact us!
 
 
   <br>
