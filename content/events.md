@@ -5,7 +5,19 @@ content: >-
   <ul class="flex-1">
 
 
-  <li class="py-3 text-xl">- <b>First XAlive Gathering of Spring 2022</b> -<br>Come join us as we start off this semester with a time of worship, prayer and fellowship!<br> Wednesday, January 12, 2022 @ 7 PM in Union 3206 <br> <a href="/">CLICK HERE</a> for our Get Connected form to contact us!
+  <li class="py-3 text-xl">- <b>First XAlive Gathering of Spring 2022</b> -<br>Come join us as we start off this semester with a time of worship, prayer and fellowship!<br> Wednesday, January 12 @ 7 PM in Union 3206 <br>
+
+
+  <br>
+
+
+  <li class="py-3 text-xl">- <b>Save the date: Saturday, January 22 at 7pm</b> -<br> We're getting together on Saturday, January 22nd for a bonfire, games, and pizza. Mark your calendars...more details coming soon! <br>
+
+
+  <br>
+
+
+  <a href="/">CLICK HERE</a> for our Get Connected form to contact us!
 
 
   <br>
