@@ -5,17 +5,13 @@ content: >-
   <ul class="flex-1">
 
 
-  <li class="py-3 text-xl">- <b>God's Not Dead Live Q&A Event</b> -<br>An event where the speakers will present evidence for God<br> Wednesday, November 17, 2021 @ 7 PM in Genome Science <br>Check out <a href="https://www.youtube.com/watch?v=XXzDBRBVRqo">THIS VIDEO</a> for more info<br> <a href="/">CLICK HERE</a> for our Get Connected form to contact us!
+  <li class="py-3 text-xl">- <b>First XAlive Gathering of Spring 2022</b> -<br>Come join us as we start off this semester with a time of worship, prayer and fellowship!<br> Wednesday, January 12, 2022 @ 7 PM in Union 3206 <br> <a href="/">CLICK HERE</a> for our Get Connected form to contact us!
 
 
   <br>
 
 
   </ul>
-
-
-
-
 
 
   <br>
