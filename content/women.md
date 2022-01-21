@@ -5,13 +5,10 @@ life-group: >-
   <ul class="flex-1">
 
 
-  <li class="py-3 text-xl">Monday 6:30 PM <br>Led by Adriana Jimenez and Chavely Gonzalez<br>Meet in Bottom of Lenoir</li>
+  <li class="py-3 text-xl">Monday Evenings <br>Led by Emily Shuman and Lydia Silverstone<br>Time and Location TBA</li>
 
 
   <br>
-
-
-  <li class="py-3 text-xl">Thursday 7 PM <br>Led by Emily Shuman and Lydia Silverstone<br>Meet at Morrison Basketball Court<br></li>
 
 
   </ul>
