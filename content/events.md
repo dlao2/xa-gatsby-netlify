@@ -11,7 +11,15 @@ content: >-
   <br>
 
 
-  <li class="py-3 text-xl">- <b>Save the date: Saturday, January 22 at 7pm</b> -<br> We're getting together on Saturday, January 22nd for a bonfire, games, and pizza. Mark your calendars...more details coming soon! <br>
+  <li class="py-3 text-xl">- <b> CANCELLED <s>Save the date: Saturday, January 22 at 7pm</s></b> - <br>
+
+
+  <br>
+
+
+  <li class="py-3 text-xl">- <b> Duke Watch Party Feb. 5th</b> - <br> Let's watch our Heels beat Dook on Saturday, February 5th in Union 2420! Tipoff is scheduled for <b>6 PM</b><br>
+
+
 
 
   <br>
