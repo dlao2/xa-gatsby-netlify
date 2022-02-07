@@ -5,21 +5,19 @@ content: >-
   <ul class="flex-1">
 
 
-  <li class="py-3 text-xl">- <b>First XAlive Gathering of Spring 2022</b> -<br>Come join us for a time of worship, prayer and fellowship! Join us as we seek the Lord together!<br> Every Wednesday Night @ 7 PM in Union 3206 <br>
+  <li class="py-3 text-xl">- <b>XAlive Gathering</b> -<br>Come join us for a time of worship, prayer and fellowship! Join us as we seek the Lord together!<br> Every Wednesday Night @ 7 PM in Union 3206 <br>
 
 
   <br>
 
 
-  <li class="py-3 text-xl">- <b> CANCELLED <s>Save the date: Saturday, January 22 at 7pm</s></b> - <br>
+  <li class="py-3 text-xl">- <b>Veritas Forum</b> -<br>This Wednesday, <b>February 9th at 7pm</b> we'll be attending the Veritas Forum together instead of our normal XAlive meeting. The topic of the evening is "A Scientific Case for Adam and Eve? Evolution, Genesis, and the Question of Human Origins." <br>You will need to click <a href="https://www.ncstudycenter.org/events/2022/2/9/swamidass">here</a> to reserve a seat and for more info! <br>
 
 
   <br>
 
 
-  <li class="py-3 text-xl">- <b> Duke Watch Party Feb. 5th</b> - <br> Let's watch our Heels beat Dook on Saturday, February 5th in Union 2420! Tipoff is scheduled for <b>6 PM</b><br>
-
-
+  <li class="py-3 text-xl">- <b> Superbowl Sunday, Feb. 13th</b> - <br> Come join us for food, game, and fun with friends! We'll be watching the Rams play against the Bengals at the Newells' house this Saturday, February 13th! Kickoff <b>6:30 PM</b><br>
 
 
   <br>
