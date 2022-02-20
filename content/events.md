@@ -11,18 +11,6 @@ content: >-
   <br>
 
 
-  <li class="py-3 text-xl">- <b>Veritas Forum</b> -<br>This Wednesday, <b>February 9th at 7pm</b> we'll be attending the Veritas Forum together instead of our normal XAlive meeting. The topic of the evening is "A Scientific Case for Adam and Eve? Evolution, Genesis, and the Question of Human Origins." <br>You will need to click <a href="https://www.ncstudycenter.org/events/2022/2/9/swamidass">here</a> to reserve a seat and for more info! <br>
-
-
-  <br>
-
-
-  <li class="py-3 text-xl">- <b> Superbowl Sunday, Feb. 13th</b> - <br> Come join us for food, game, and fun with friends! We'll be watching the Rams play against the Bengals at the Newells' house this Saturday, February 13th! Kickoff <b>6:30 PM</b><br>
-
-
-  <br>
-
-
   <a href="/">CLICK HERE</a> for our Get Connected form to contact us!
 
 
