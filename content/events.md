@@ -11,6 +11,9 @@ content: >-
   <br>
 
 
+  <li class="py-3 text-xl">- <b>Food drive now through 3/31</b> -<br>Throughout the month of March, we're hosting a food drive benefitting InterFaith Food Shuttle, a non-profit that serves residents of Durham facing food insecurity. Drop of non-perishable goods at Life Groups & XAlive throughout the month. <br>
+
+
   <a href="/">CLICK HERE</a> for our Get Connected form to contact us!
 
 
