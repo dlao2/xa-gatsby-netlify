@@ -8,6 +8,18 @@ content: >-
   <li class="py-3 text-xl">- <b>XAlive Gathering</b> -<br>Come join us for a time of worship, prayer and fellowship! Join us as we seek the Lord together!<br> Every Wednesday Night @ 7 PM in Union 3206 <br>
 
 
+  \*Note: On March 16th we will not have XAlive due to Spring Break.
+
+
+  <br>
+
+
+  <li class="py-3 text-xl">- <b>XA Lake Retreat for April 9-10</b> -<br>Save the Date for April 9-10! More details TBA <br>
+
+
+  <br>
+
+
   <br>
 
 
