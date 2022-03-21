@@ -8,7 +8,7 @@ content: >-
   <li class="py-3 text-xl">- <b>XAlive Gathering</b> -<br>Come join us for a time of worship, prayer and fellowship! Join us as we seek the Lord together!<br> Every Wednesday Night @ 7 PM in Union 3206 <br>
 
 
-  \*Note: On March 16th we will not have XAlive due to Spring Break.
+  Join us on March 30th for a special XAlive. We're hosting a moderated Q&A between current graduate student Parker and alumnus Stephen about their friendship and their time in Chi Alpha. You don't want to miss their impactful story of a deep friendship that changed them and our ministry!
 
 
   <br>
