@@ -8,7 +8,10 @@ content: >-
   <li class="py-3 text-xl">- <b>XAlive Gathering</b> -<br>Come join us for a time of worship, prayer and fellowship! Join us as we seek the Lord together!<br> Every Wednesday Night @ 7 PM in Union 3206 <br>
 
 
-  On March 30th we are hosting a moderated Q&A between current graduate student Parker and alumnus Stephen about their friendship and their time in Chi Alpha. You don't want to miss their impactful story of a deep friendship that changed them and our ministry!
+  On March 30th we are hosting a moderated Q&A between current graduate student Parker and alumnus Stephen about their friendship and their time in Chi Alpha. You don't want to miss their impactful story of a deep friendship that changed them and our ministry!<br>
+
+
+  Our last XAlive for the semester is set for April 6th! Join us for worship, fellowship, and teaching as we wrap up our year.
 
 
   <br>
@@ -23,7 +26,7 @@ content: >-
   <br>
 
 
-  <li class="py-3 text-xl">- <b>XA Lake Retreat for April 9-10</b> -<br>We're going to the lake! We rented a beautiful lake house right on the water, and you're invited to come spend the weekend with us for ***FREE*** (food included). We'll be hanging out from 10am on Saturday to around noon on Sunday. There will be canoes & kayaks, swimming, games, and plenty of food. Fill out the Get Connected form if interested!
+  <li class="py-3 text-xl">- <b>XA Lake Retreat for April 9-10</b> -<br>We're going to the lake! We rented a beautiful lake house right on the water, and you're invited to come spend the weekend with us for \*\*\*FREE\*\*\* (food included). We'll be hanging out from 10am on Saturday to around noon on Sunday. There will be canoes & kayaks, swimming, games, and plenty of food. Fill out the Get Connected form if interested!
 
    <br>
 
@@ -31,8 +34,6 @@ content: >-
 
 
   <br>
-
-
 
 
   </ul>
