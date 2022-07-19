@@ -5,7 +5,7 @@ content: >-
   <ul class="flex-1">
 
 
-  <li class="py-3 text-xl">- <b>Family Group</b> -<br>Details TBA
+  <li class="py-3 text-xl">- <b>Family Group</b> -<br>TBA for Fall 2022
 
 
   <br>
