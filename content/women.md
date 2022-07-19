@@ -1,15 +1,12 @@
 ---
 title: Women
 background-photo: assets/womens_escape_banner.jpg
-life-group: >-
+life-group: |-
   <ul class="flex-1">
 
-
-  <li class="py-3 text-xl">Monday Night 7PM <br>Led by Emily Shuman and Lydia Silverstone<br>Location Union room 3201</li>
-
+  <li class="py-3 text-xl">TBA for Fall 2022</li>
 
   <br>
-
 
   </ul>
 student-leaders:
