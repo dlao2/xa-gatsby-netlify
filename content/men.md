@@ -1,10 +1,12 @@
 ---
 title: Men
 background-photo: assets/mens_campout.jpg
-life-group: |-
+life-group: >-
   <ul class="flex-1">
 
-  <li class="py-3 text-xl">TBA for Fall 2022 <br></li>
+
+  <li class="py-3 text-xl">Thursday Nights 7 PM @ Bottom of Lenoir<br>Led by Seth Collins and David Lao<br></li>
+
 
   </ul>
 student-leaders:
