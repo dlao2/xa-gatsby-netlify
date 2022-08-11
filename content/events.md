@@ -5,6 +5,24 @@ content: >-
   <ul class="flex-1">
 
 
+  <li class="py-3 text-xl">- <b>Aug 17 - S'Morrison @ 7:30 PM</b> -<br>Meet a new friend over free s'mores at the Morrison Basketball Court area!
+
+
+  <br>
+
+
+  <br>
+
+
+  <li class="py-3 text-xl">- <b>Aug 19 - Floats & Glow in the Dark CTF @ 8:30 PM</b> -<br>Come enjoy an ice cream float with various cola choices to choose from. Once it's dark, we'll play glow-in-the-dark capture the flag!
+
+
+  <br>
+
+
+  <br>
+
+
   <li class="py-3 text-xl">- <b>Family Group</b> -<br>TBA for Fall 2022
 
 
