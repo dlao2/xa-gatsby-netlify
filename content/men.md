@@ -5,7 +5,7 @@ life-group: >-
   <ul class="flex-1">
 
 
-  <li class="py-3 text-xl">Thursday Nights 7 PM @ Bottom of Lenoir<br>Led by Seth Collins and David Lao<br></li>
+  <li class="py-3 text-xl">Thursday Nights 7 PM @ Bottom of Lenoir<br>Led by Seth Collins and David Lao<br>First meeting on August 25th!</li>
 
 
   </ul>
