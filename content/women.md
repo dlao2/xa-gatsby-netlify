@@ -1,12 +1,15 @@
 ---
 title: Women
 background-photo: assets/womens_escape_banner.jpg
-life-group: |-
+life-group: >-
   <ul class="flex-1">
 
-  <li class="py-3 text-xl">TBA for Fall 2022</li>
+
+  <li class="py-3 text-xl">Thursday Nights 7 PM @ Bottom of Lenoir<br>Led by Lydia Silverstone and Adriana Jimenez</li>
+
 
   <br>
+
 
   </ul>
 student-leaders:
