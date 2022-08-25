@@ -5,25 +5,16 @@ content: >-
   <ul class="flex-1">
 
 
-  <li class="py-3 text-xl">- <b>Aug 17 - S'Morrison @ 7:30 PM</b> -<br>Meet a new friend over free s'mores at the Morrison Basketball Court area!
+  <li class="py-3 text-xl">- <b>Chi Alpha Bowling, 2-4 PM @ Mardi Gras Bowling</b> -<br>Chi Alpha is going to bowl this Saturday at Mardi Gras Bowling Center, August 27 at 2PM! Come see if you can bowl a strike or a double! It's $5.89/person/game, and bowling shoe rental is $4.39/person. Be sure to bring at least $12 to cover one game and shoe rental.
+
+
+  If you need a ride, let a life group leader or staff know and we'll coordinate rides. Alternatively, you can fill out the connect form at the bottom. Hope to see you!
 
 
   <br>
 
 
-  <br>
-
-
-  <li class="py-3 text-xl">- <b>Aug 19 - Floats & Glow in the Dark CTF @ 8:30 PM</b> -<br>Come enjoy an ice cream float with various cola choices to choose from. Once it's dark, we'll play glow-in-the-dark capture the flag!
-
-
-  <br>
-
-
-  <br>
-
-
-  <li class="py-3 text-xl">- <b>Family Group</b> -<br>TBA for Fall 2022
+  <li class="py-3 text-xl">- <b>Family Group</b> -<br>First Family Group meets <b>7 PM Wednesday, August 31st, Union 3407</b>. All life groups will meet for a time of worship and fellowship. Hope to see you there!
 
 
   <br>
