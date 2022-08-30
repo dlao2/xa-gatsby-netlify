@@ -5,19 +5,19 @@ content: >-
   <ul class="flex-1">
 
 
-  <li class="py-3 text-xl">- <b>Chi Alpha Bowling, 2-4 PM @ Mardi Gras Bowling</b> -<br>Chi Alpha is going to bowl this Saturday at Mardi Gras Bowling Center, August 27 at 2PM! Come see if you can bowl a strike or a double! It's $5.89/person/game, and bowling shoe rental is $4.39/person. Be sure to bring at least $12 to cover one game and shoe rental.
+  <br>
 
 
-  If you need a ride, let a life group leader or staff know and we'll coordinate rides. Alternatively, you can fill out the connect form at the bottom. Hope to see you!
+  <li class="py-3 text-xl">- <b>Family Group</b> -<br>First Family Group meets <b>7 PM Wednesday, August 31st, Union 3407</b>. All life groups will meet for a time of worship and fellowship. If you're new to Chi Alpha, this is an opportunity for you to hear more about Chi Alpha and how it all goes back to our Lord and Savior Jesus Christ. Hope to see you there!
 
 
   <br>
 
 
-  <li class="py-3 text-xl">- <b>Family Group</b> -<br>First Family Group meets <b>7 PM Wednesday, August 31st, Union 3407</b>. All life groups will meet for a time of worship and fellowship. Hope to see you there!
-
-
   <br>
+
+
+  <li class="py-3 text-xl">- <b>XA International Pool Party & Cookout, 5-9 PM @ the Andringas' house</b> -<br>The weather is still warm, so why not enjoy some pool time? The Andringas' have a pool that we can swim in, and they have been gracious in providing FREE FOOD over a cookout as well! Whether you are an international or an American student, we hope you can join us, and you are free to bring a friend. Reach out to a life group leader, staff, or fill out a connect form if you are interested and would like a ride! <br>If you have a car, the address is 103 Morgan Bend Court, Chapel Hill, NC 27514.
 
 
   <a href="/">CLICK HERE</a> for our Get Connected form to contact us!
