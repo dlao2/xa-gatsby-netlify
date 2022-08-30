@@ -11,6 +11,9 @@ content: >-
   <li class="py-3 text-xl">- <b>Family Group</b> -<br>First Family Group meets <b>7 PM Wednesday, August 31st, Union 3407</b>. All life groups will meet for a time of worship and fellowship. If you're new to Chi Alpha, this is an opportunity for you to hear more about Chi Alpha and how it all goes back to our Lord and Savior Jesus Christ. Hope to see you there!
 
 
+  \*Note: Co-ed Life Group will not on weeks when Family Group is happening.
+
+
   <br>
 
 
