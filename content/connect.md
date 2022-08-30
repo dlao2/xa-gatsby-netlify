@@ -32,7 +32,13 @@ content: >-
   <div class="py-3">
 
 
-  Life Groups: <a class="text-blue-800" href="/men">Men</a> | <a class="text-blue-800" href="/women">Women</a>
+  <br>
+
+
+  Life Groups:
+
+
+  <a class="text-blue-800" href="/men">Men</a> Thursday 7PM @ Bottom of Lenoir | <a class="text-blue-800" href="/women">Women</a> Thursday 7PM @ Bottom of Lenoir | Co-ed Wednesday 7PM @ Union 3407
 
 
   </div>
