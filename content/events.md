@@ -8,7 +8,16 @@ content: >-
   <br>
 
 
-  <li class="py-3 text-xl">- <b>Family Group</b> -<br>First Family Group meets <b>7 PM Wednesday, August 31st, Union 3407</b>. All life groups will meet for a time of worship and fellowship. If you're new to Chi Alpha, this is an opportunity for you to hear more about Chi Alpha and how it all goes back to our Lord and Savior Jesus Christ. Hope to see you there!
+  <li class="py-3 text-xl">- <b>XA International Pool Party & Cookout, 5-9 PM @ the Andringas' house - CANCELLED</b><br>In light of a potential thunderstorm tomorrow, we decided to cancel the pool party. Stay tuned for future Chi Alpha International updates!<br><br>
+
+
+  <li class="py-3 text-xl">- <b>F﻿all Retreat -</b><br>All Chi Alpha groups i﻿n North Carolina are invited to gather for Fall Retreat! When registering, use the code "tarheels" so the price becomes $79! Cost covers lodgings, meals, teaching materials, and activities onsite. You would only need extra money for meals while on the road to or away from the retreat. <a href="https://ncchialpha.com/fallretreat">CLICK HERE</a> to register! Email <a href = "mailto: uncxainfo@gmail.com">uncxainfo@gmail.com</a> for more info!<br><br>
+
+
+  D﻿ates are from September 23-25, and it will take place at Camp Hanes in King, NC
+
+
+  <li class="py-3 text-xl">- <b>Family Group</b> -<br>First Family Group meets <b>7 PM Wednesday, September 28th, Union 3411</b>. All life groups will meet for a time of worship and fellowship. If you're new to Chi Alpha, this is an opportunity for you to hear more about Chi Alpha and how it all goes back to our Lord and Savior Jesus Christ. Hope to see you there!
 
 
   \*Note: Co-ed Life Group will not on weeks when Family Group is happening.
@@ -18,9 +27,6 @@ content: >-
 
 
   <br>
-
-
-  <li class="py-3 text-xl">- <b>XA International Pool Party & Cookout, 5-9 PM @ the Andringas' house</b> -<br>The weather is still warm, so why not enjoy some pool time? The Andringas' have a pool that we can swim in, and they have been gracious in providing FREE FOOD over a cookout as well! Whether you are an international or an American student, we hope you can join us, and you are free to bring a friend. Reach out to a life group leader, staff, or fill out a connect form if you are interested and would like a ride! <br>If you have a car, the address is 103 Morgan Bend Court, Chapel Hill, NC 27514.
 
 
   <a href="/">CLICK HERE</a> for our Get Connected form to contact us!
