@@ -8,16 +8,10 @@ content: >-
   <br>
 
 
-  <li class="py-3 text-xl">- <b>XA International Pool Party & Cookout, 5-9 PM @ the Andringas' house - CANCELLED</b><br>In light of a potential thunderstorm tomorrow, we decided to cancel the pool party. Stay tuned for future Chi Alpha International updates!<br><br>
+  <li class="py-3 text-xl">- <b>Chi Alpha Christmas Party - December 1, 6PM -</b><br>Christmas Party at the Newell's house! We're also hosting a White Elephant Gift Exchange! To participate, bring a gift with a max value of $5 (or this could be something you already own), have it wrapped or in a gift bag, and bring it over! We'll explain the rules when the game starts. Dinner will be provided. Please reach out to a staff or life group leader if interested and need a ride! And do let us know if you have food allergies!<br>Address is 6102 Coronado Ln, Durham, NC 27713.
 
 
-  <li class="py-3 text-xl">- <b>FALL RETREAT - September 23-25 at Camp Hanes in King, NC -</b><br>All Chi Alpha groups i﻿n North Carolina are invited to gather for Fall Retreat! When registering, use the code "tarheels" so the price becomes $79! Cost covers lodgings, meals, teaching materials, and activities onsite. You would only need extra money for meals while on the road to or away from the retreat. <a href="https://ncchialpha.com/fallretreat">CLICK HERE</a> to register! Email <a href = "mailto: uncxainfo@gmail.com">uncxainfo@gmail.com</a> for more info!<br><br>
-
-
-  <li class="py-3 text-xl">- <b>Family Group</b> -<br>Family Group meets <b>7 PM Wednesday, September 28th, Union 3411</b> for a time of worship and fellowship. We're always expecting God to move in our midst. Hope to see you there!
-
-
-  \*Note: Co-ed Life Group will not on weeks when Family Group is happening.
+  Email <a href = "mailto: uncxainfo@gmail.com">uncxainfo@gmail.com</a> for more info!<br><br>
 
 
   <br>
