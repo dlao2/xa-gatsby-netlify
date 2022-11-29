@@ -11,11 +11,6 @@ content: >-
   To give, click on DONATE below!<br>
 
 
-  <iframe src="https://donate.stripe.com/dR64gOezL8zP4tWfYY" title="description"></iframe>
-
-
-
-
   <a href="https://donate.stripe.com/dR64gOezL8zP4tWfYY"><button onclick="https://donate.stripe.com/dR64gOezL8zP4tWfYY">DONATE</button><a/><br>
 
 
