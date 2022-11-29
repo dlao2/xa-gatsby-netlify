@@ -5,7 +5,10 @@ content: >-
   <center class="py-24">
 
 
-  <p>Thank you for your generosity to Chi Alpha at UNC. Your donation is tax-deductible and goes directly to our organization at UNC. To give, click on DONATE below!<br>
+  <p>Thank you for your generosity to Chi Alpha at UNC. Your donation is tax-deductible and goes directly to our organization at UNC.<br>
+
+
+  To give, click on DONATE below!<br>
 
 
   <a href="https://donate.stripe.com/dR64gOezL8zP4tWfYY"><button onclick="https://donate.stripe.com/dR64gOezL8zP4tWfYY">DONATE</button><a/><br>
