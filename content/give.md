@@ -4,12 +4,10 @@ background-photo: assets/give.jpg
 content: >-
   <p>Thank you for your generosity to Chi Alpha at UNC. Your donation is
   tax-deductible and goes directly to our organization at UNC. To give, click on
-  the button below!
+  DONATE below!
 
 
   <center class="py-24">
-
-
 
 
   <a href="https://donate.stripe.com/dR64gOezL8zP4tWfYY"><button onclick="https://donate.stripe.com/dR64gOezL8zP4tWfYY">Donate</button><a/></center>
