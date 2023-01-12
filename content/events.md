@@ -8,7 +8,10 @@ content: >-
   <br>
 
 
-  <li class="py-3 text-xl">- <b>Chi Alpha Christmas Party - December 1, 6PM -</b><br>Christmas Party at the Newell's house! We're also hosting a White Elephant Gift Exchange! To participate, bring a gift with a max value of $5 (or this could be something you already own), have it wrapped or in a gift bag, and bring it over! We'll explain the rules when the game starts. Dinner will be provided. Please reach out to a staff or life group leader if interested and need a ride! And do let us know if you have food allergies!<br>Address is 6102 Coronado Ln, Durham, NC 27713.
+  <li class="py-3 text-xl">- <b>Get to Know Chi Alpha - January 18th, 6-7:30 pm -</b><br>
+
+
+  Ever wonder where Chi Alpha Christian Fellowship gets its name or who are the people in Chi Alpha? If that's you, look no further because on Wednesday, January 18, we'll be hosting a Get to Know XA night! You will have an opportunity to meet some Chi Alpha staff and students, get to know them, and ask questions! We will be in Union 3407 from 6-7:30 PM on Wednesday, January 18th, and FREE PIZZA will be provided! Fill out this <a href = "https://docs.google.com/forms/d/e/1FAIpQLSf_XQvc1xSPI8AJRXVsv-W1KIG5ygLz0Dn8b8aUWDih1R-acw/viewform">FORM</a> to let us know you're interested! Open to any student!
 
 
   Email <a href = "mailto: uncxainfo@gmail.com">uncxainfo@gmail.com</a> for more info!<br><br>
