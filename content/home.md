@@ -15,7 +15,8 @@ who-we-are:
     <p>Chi Alpha has groups on more than 300 campuses in the United States and around the world.</p>
   image: assets/pit.jpg
 section-3:
-  text: <span class="block w-1/2 text-center">We use the Greek name to reflect the
+  text:
+    <span class="block w-1/2 text-center">We use the Greek name to reflect the
     Apostle Paul's words in 2 Corinthians 5:20. The X (Chi) and A (Alpha) are
     abbreviations for "Christ's ambassadors".</span>
   title: ""
@@ -37,4 +38,7 @@ life-groups:
   women:
     text: Women's Lifegroup
     background-photo: assets/womens_escape_banner.jpg
+  lifegroup:
+    text: Lifegroup
+    background-photo: assets/lifegroup.jpg
 ---

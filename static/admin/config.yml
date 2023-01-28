@@ -13,38 +13,42 @@ collections:
         name: "home"
         file: "content/home.md"
         fields:
-          - {label: Title, name: title, widget: string}
+          - { label: Title, name: title, widget: string }
           - label: Heading Left
             name: heading-left
             widget: object
             fields:
-              - {label: Text, name: title, widget: string}
-              - {label: Background Photo, name: background-photo, widget: image}
+              - { label: Text, name: title, widget: string }
+              - {
+                  label: Background Photo,
+                  name: background-photo,
+                  widget: image,
+                }
           - label: Section 1
             name: section-1
             widget: object
             fields:
-              - {label: Title, name: title, widget: string, required: false}
-              - {label: Text, name: text, widget: markdown, required: false}
+              - { label: Title, name: title, widget: string, required: false }
+              - { label: Text, name: text, widget: markdown, required: false }
           - label: Who We Are
             name: who-we-are
             widget: object
             fields:
-              - {label: Title, name: title, widget: string, required: false}
-              - {label: Text, name: text, widget: markdown, required: false}
-              - {label: Image, name: image, widget: image, required: false}
+              - { label: Title, name: title, widget: string, required: false }
+              - { label: Text, name: text, widget: markdown, required: false }
+              - { label: Image, name: image, widget: image, required: false }
           - label: Section 3
             name: section-3
             widget: object
             fields:
-              - {label: Title, name: title, widget: string, required: false}
-              - {label: Text, name: text, widget: markdown, required: false}
+              - { label: Title, name: title, widget: string, required: false }
+              - { label: Text, name: text, widget: markdown, required: false }
           - label: Section 4
             name: section-4
             widget: object
             fields:
-              - {label: Title, name: title, widget: string, required: false}
-              - {label: Text, name: text, widget: markdown, required: false}
+              - { label: Title, name: title, widget: string, required: false }
+              - { label: Text, name: text, widget: markdown, required: false }
           - label: Life Groups
             name: life-groups
             widget: object
@@ -53,139 +57,186 @@ collections:
                 name: men
                 widget: object
                 fields:
-                  - {label: Text, name: text, widget: string}
-                  - {label: Background Photo, name: background-photo, widget: image}
+                  - { label: Text, name: text, widget: string }
+                  - {
+                      label: Background Photo,
+                      name: background-photo,
+                      widget: image,
+                    }
               - label: Women
                 name: women
                 widget: object
                 fields:
-                  - {label: Text, name: text, widget: string}
-                  - {label: Background Photo, name: background-photo, widget: image}
+                  - { label: Text, name: text, widget: string }
+                  - {
+                      label: Background Photo,
+                      name: background-photo,
+                      widget: image,
+                    }
 
       - label: "About Page"
         name: "about"
         file: "content/about.md"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Background Photo, name: background-photo, widget: image}
+          - { label: Title, name: title, widget: string }
+          - { label: Background Photo, name: background-photo, widget: image }
           - label: Our Vision
             name: our-vision
             widget: object
             fields:
-              - {label: Text, name: text, widget: markdown}
-              - {label: Background Photo, name: background-photo, widget: image}
+              - { label: Text, name: text, widget: markdown }
+              - {
+                  label: Background Photo,
+                  name: background-photo,
+                  widget: image,
+                }
           - label: Part 2
             name: part-2
             widget: object
             fields:
-              - {label: Text, name: text, widget: markdown}
-              - {label: Background Photo, name: background-photo, widget: image}
+              - { label: Text, name: text, widget: markdown }
+              - {
+                  label: Background Photo,
+                  name: background-photo,
+                  widget: image,
+                }
           - label: What We Believe
             name: what-we-believe
             widget: object
             fields:
-              - {label: Title, name: title, widget: string}
-              - {label: Text, name: text, widget: markdown}
+              - { label: Title, name: title, widget: string }
+              - { label: Text, name: text, widget: markdown }
           - label: The Long Version
             name: the-long-version
             widget: object
             fields:
-              - {label: Title, name: title, widget: string}
-              - {label: Text, name: text, widget: markdown}
+              - { label: Title, name: title, widget: string }
+              - { label: Text, name: text, widget: markdown }
 
       - label: "Staff Page"
         name: "staff"
         file: "content/staff.md"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Background Photo, name: background-photo, widget: image}
+          - { label: Title, name: title, widget: string }
+          - { label: Background Photo, name: background-photo, widget: image }
           - label: Staff
             name: staff
             widget: list
             fields:
-              - {label: Name, name: name, widget: string}
-              - {label: Position, name: position, widget: string, required: false}
-              - {label: Headshot, name: headshot, widget: image}
-              - {label: Biography Photo, name: bio-photo, widget: image}
-              - {label: Biography, name: biography, widget: markdown}
+              - { label: Name, name: name, widget: string }
+              - {
+                  label: Position,
+                  name: position,
+                  widget: string,
+                  required: false,
+                }
+              - { label: Headshot, name: headshot, widget: image }
+              - { label: Biography Photo, name: bio-photo, widget: image }
+              - { label: Biography, name: biography, widget: markdown }
 
       - label: "Men Page"
         name: "men"
         file: "content/men.md"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Background Photo, name: background-photo, widget: image}
-          - {label: Life Group, name: life-group, widget: markdown}
+          - { label: Title, name: title, widget: string }
+          - { label: Background Photo, name: background-photo, widget: image }
+          - { label: Life Group, name: life-group, widget: markdown }
           - label: Student Leaders
             name: student-leaders
             widget: list
             fields:
-              - {label: Name, name: name, widget: string}
-              - {label: Photo, name: photo, widget: image}
-              - {label: Biography, name: biography, widget: markdown}
+              - { label: Name, name: name, widget: string }
+              - { label: Photo, name: photo, widget: image }
+              - { label: Biography, name: biography, widget: markdown }
 
       - label: "Women Page"
         name: "women"
         file: "content/women.md"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Background Photo, name: background-photo, widget: image}
-          - {label: Life Group, name: life-group, widget: markdown}
+          - { label: Title, name: title, widget: string }
+          - { label: Background Photo, name: background-photo, widget: image }
+          - { label: Life Group, name: life-group, widget: markdown }
           - label: Student Leaders
             name: student-leaders
             widget: list
             fields:
-              - {label: Name, name: name, widget: string}
-              - {label: Photo, name: photo, widget: image}
-              - {label: Biography, name: biography, widget: markdown}
+              - { label: Name, name: name, widget: string }
+              - { label: Photo, name: photo, widget: image }
+              - { label: Biography, name: biography, widget: markdown }
+
+      - label: "Life Group Page"
+        name: "lifegroup"
+        file: "content/lifegroup.md"
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Background Photo, name: background-photo, widget: image }
+          - { label: Life Group, name: life-group, widget: markdown }
+          - label: Student Leaders
+            name: student-leaders
+            widget: list
+            fields:
+              - { label: Name, name: name, widget: string }
+              - { label: Photo, name: photo, widget: image }
+              - { label: Biography, name: biography, widget: markdown }
 
       - label: "Testimonials"
         name: "testimonials"
         file: "content/testimonials.md"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Background Photo, name: background-photo, widget: image}
+          - { label: Title, name: title, widget: string }
+          - { label: Background Photo, name: background-photo, widget: image }
           - label: Testimonials
             name: testimonials
             widget: list
             fields:
-              - {label: Name, name: name, widget: string}
-              - {label: Headshot, name: headshot, widget: image, required: false}
+              - { label: Name, name: name, widget: string }
               - {
-                label: School,
-                name: school,
-                widget: select,
-                options: ["University of North Carolina at Chapel Hill", "North Carolina State University", "Virginia Commonwealth University", "Reinhardt University"],
-                required: false
-              }
-              - {label: Testimonial, name: testimonial, widget: markdown}
+                  label: Headshot,
+                  name: headshot,
+                  widget: image,
+                  required: false,
+                }
+              - {
+                  label: School,
+                  name: school,
+                  widget: select,
+                  options:
+                    [
+                      "University of North Carolina at Chapel Hill",
+                      "North Carolina State University",
+                      "Virginia Commonwealth University",
+                      "Reinhardt University",
+                    ],
+                  required: false,
+                }
+              - { label: Testimonial, name: testimonial, widget: markdown }
 
       - label: "Give Page"
         name: "give"
         file: "content/give.md"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Background Photo, name: background-photo, widget: image}
-          - {label: Content, name: content, widget: markdown}
+          - { label: Title, name: title, widget: string }
+          - { label: Background Photo, name: background-photo, widget: image }
+          - { label: Content, name: content, widget: markdown }
 
       - label: "Resources Page"
         name: "resources"
         file: "content/resources.md"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Background Photo, name: background-photo, widget: image}
-          - {label: Content, name: content, widget: markdown}
+          - { label: Title, name: title, widget: string }
+          - { label: Background Photo, name: background-photo, widget: image }
+          - { label: Content, name: content, widget: markdown }
       - label: "Connect Page"
         name: "connect"
         file: "content/connect.md"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Background Photo, name: background-photo, widget: image}
-          - {label: Content, name: content, widget: markdown}
+          - { label: Title, name: title, widget: string }
+          - { label: Background Photo, name: background-photo, widget: image }
+          - { label: Content, name: content, widget: markdown }
       - label: "Events Page"
         name: "events"
         file: "content/events.md"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Background Photo, name: background-photo, widget: image}
-          - {label: Content, name: content, widget: markdown}
+          - { label: Title, name: title, widget: string }
+          - { label: Background Photo, name: background-photo, widget: image }
+          - { label: Content, name: content, widget: markdown }
