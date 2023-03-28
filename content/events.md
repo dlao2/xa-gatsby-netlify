@@ -8,10 +8,13 @@ content: >-
   <br>
 
 
-  <li class="py-3 text-xl">- <b>Get to Know Chi Alpha - January 18th, 6-7:30 pm -</b><br>
+  <li class="py-3 text-xl">- <b>Rush Hour Karting - March 31st, 7pm -</b><br>
 
 
-  Ever wonder where Chi Alpha Christian Fellowship gets its name or who are the people in Chi Alpha? If that's you, look no further because on Wednesday, January 18, we'll be hosting a Get to Know XA night! You will have an opportunity to meet some Chi Alpha staff and students, get to know them, and ask questions! We will be in Union 3407 from 6-7:30 PM on Wednesday, January 18th, and FREE PIZZA will be provided! Fill out this <a href = "https://docs.google.com/forms/d/e/1FAIpQLSf_XQvc1xSPI8AJRXVsv-W1KIG5ygLz0Dn8b8aUWDih1R-acw/viewform">FORM</a> to let us know you're interested! Open to any student!
+  This Friday a group of us are planning to go fast on a race track at Rush Hour Karting in Garner at 7PM! Chi Alpha will cover the cost of the first race for everyone, and any race after the first will cost $25 (<b>$12 for students!!!</b>). We will grab dinner after racing and drive back home. <br>
+
+
+  If you need a ride, a group of us will meet at the ATMs behind Davis Library for carpooling and depart at 6pm. Please plan to arrive ten minutes early. Otherwise, we'll see you at the following address: 5335 Raynor Rd, Garner, NC 27529-9450. If you plan to drive yourself over, <b>please arrive there no later than 7pm</b>!
 
 
   Email <a href = "mailto: uncxainfo@gmail.com">uncxainfo@gmail.com</a> for more info!<br><br>
